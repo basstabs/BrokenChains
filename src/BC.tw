@@ -1,0 +1,89 @@
+:: StoryTitle
+Broken Chains
+
+
+:: StoryData
+{
+
+	"ifid": "7C82C12C-2CD9-4925-81C7-623164184895",
+	"format": "SugarCube",
+	"format-version": "2.30.0",
+	"start": "Chapter Select"
+
+}
+
+:: Chapter Select {"position":"153,23","size":"100,100"}
+<<set $land_name = "Theaonia">>\
+<<set $female_city_name = "Gynepolis">>\
+<<set $bethea_place_name = "Nomos">>\
+<<if $chaos === undefined>>\
+	<<set $chaos = 0>>\
+<<endif>>\
+<<if $true_path === undefined>>\
+	<<set $true_path = true>>\
+<<endif>>\
+<<set $alternate_passages = []>>\
+<<set $night_chapters = ['2', '3']>>\
+!Broken Chains
+
+Centuries have passed since the war between the Court of the Goddesses and the Court of the Gods, one century less since the Court of the Gods was imprisoned deep in the Earth and the lands of <<print $land_name>> returned to the Court of the Goddesses. Bitterness and resentment seep through the land like a poison, tainting the hearts of men. One goddess's ill-fated attempt to cure the strife forces fate onto a voyage towards catastrophe. Stripped of her goddess-hood and shunned by her kind, she alone can sway the winds of change guiding the ship of fate.
+
+-----
+
+[["Chapter 1: Escape from " + $female_city_name|Ch1-Start]]
+<<if $ch1_end>>\
+[[Chapter 2: Of Greed and Goblins|Ch2-Start]]
+<<else>>\
+Chapter 2: Of Greed and Goblins
+<<endif>>\
+<<if $ch2_end>>\
+[[Chapter 3: Targa's Shackle|Ch3-Start]]
+<<else>>\
+Chapter 3: Targa's Shackle
+<<endif>>\
+
+:: Data {"position":"17,23","size":"100,100"}
+Global:
+chaos            - How much chaos Bethea has caused. Used for choices
+true_path        - Whether the player can get the secret ending
+
+Chapter 1:
+ch1_key        - The key to the outer wall's gate.
+ch1_help       - Whether the player found and helped Alexis
+ch1_betray     - Whether the player found but did not help Alexis
+ch1_call_guard - Whether the player lured the guard to escape
+ch1_bind_guard - Whether the player captured the guard
+ch1_listen     - Whether or not the player listened to the priestess
+ch1_fly        - Whether or not the player was lassoed trying to escape
+ch1_escape     - Whether the player escaped her execution
+ch1_attack     - Whether the player attacked Damasca
+
+Approx 30k Words
+
+Chapter 2:
+ch2_ambushed        - Whether the player ignored the goblins
+ch2_goblin_captured - Whether Bethea was captured by the goblins
+ch2_power_escape    - Whether Bethea used her power to escape the goblins
+ch2_kick_knife      - Whether Bethea kicked the knife to Keyve
+ch2_keyve           - Whether Bethea rescued Keyve from the goblin camp
+ch2_sneak           - Whether Bethea snuck away without saving Marianna
+ch2_commander       - Whether Bethea met the commander at the mine
+ch2_slaves          - Whether Bethea met the slaves at the mine
+ch2_targa           - Whether Bethea was captured by Targa
+
+Approx 76k Words
+
+Chapter 3:
+ch3_bound_listen - Whether the player overheard the men on the ship
+
+Places/People:
+land_name         - The name of the continent/universe
+female_city_name  - The name of Althea's cult's city
+bethea_place_name - The name of where Bethea hid Betheos's hand
+
+Names:
+Alexis - Gynepolian arbiter
+Damasca - Witch
+Penelope - Mine Commander
+Marianna - Keyve's "girlfriend"
+Pyrros - Alexis's baby daddy

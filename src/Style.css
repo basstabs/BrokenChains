@@ -1,0 +1,66 @@
+body
+{
+ 
+	background-color: #faecd0;
+  	color: #982121;
+  
+}
+
+.nightbody
+{
+  
+	background-color: #000000;
+  	color: #faecd0;
+  
+}
+
+a
+{
+  
+	color: #ff2200;
+  
+}
+
+.nightlink
+{
+  
+  	color: #a6a7ff;
+  
+}
+
+hr
+{
+
+	border-color: #982121;
+  
+}
+
+#ui-bar
+{
+  
+	background-color: #4a0300;
+  	color: #eeeeee;
+  
+}
+
+img
+{
+  
+  display: block;
+  margin: auto;
+  
+  width: 25%;
+  
+}
+
+.map
+{
+  
+  display: block;
+  margin: auto;
+  
+  width: 100%;
+  
+  border-radius: 20px;
+   
+}

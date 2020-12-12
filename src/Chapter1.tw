@@ -1,0 +1,965 @@
+:: Ch1-Start {"position":"393,183","size":"100,100"}
+<<set $ch1_key = false>>\
+<<set $ch1_help = false>>\
+<<set $ch1_betray = false>>\
+<<set $ch1_call_guard = false>>\
+<<set $ch1_bind_guard = false>>\
+<<set $ch1_listen = false>>\
+<<set $ch1_fly = false>>\
+<<set $ch1_escape = false>>\
+<<set $ch1_attack = false>>\
+<<set $ch1_end_chaos = 0>>\
+<<set $ch1_end = false>>\
+<<set $chaos = 0>>\
+<<set $alternate_passages = ["Ch1-BadEnd", "Ch1-Execution", "Ch1-Escape", "Ch1-Damasca", "Ch1-AttackDamasca", "Ch1-SpareDamasca", "Ch1-End"]>>\
+!Chapter 1: Escape from <<print $female_city_name>>
+-----
+
+<img class="map" src="Ch1/Ch1Start.png" />
+
+[[Start|Ch1-Flashback]]
+
+:: Ch1-Flashback {"position":"478,339","size":"100,100"}
+//\
+The sun caressed the mountain plateau in its morning warmth. Light glinted off the aspides standing sentinel atop the marble temple, each one gilded with a unique symbol. Twelve fluted columns, thick like the eldest of oaks, stood in silent judgement of the proceedings below, fierce beasts of air and earth perched in stone atop them. A lone gull circled above the towering peak, its unmelodic squawk defiling the holy sanctum of the goddesses. Calm seas lapped playfully at the cliffs far below, ambling jovially into the horizon in all directions. The lone island thrust upward from the placid surface in lonely fashion, three peaks towering in dominance over the ocean. Uncowed, the water waved playfully at the rocks, remaining welcoming and alluring in stark opposition to the roiling drama unfolding atop the mount.
+
+One short of three score winged women stood at the foot of the temple around a rectangular dais, feathery appendages of all shapes, sizes, and colors sprouting from their bare shoulder blades. To the left, nine and twenty silent observers clad in elegant blue chitons. To the right, twenty and nine more wearing red. Standing regally in the center was a tall, slender beauty with dark hair. The jet black strands curled in soft waves down to the curve of her waist. An elegant white dress, ruffled and accented in gold, hung from her shoulders, the fabric falling gently over her breasts and hips. The hem fluttered in the wind just above her knees. Bare shoulders glistened in the sunlight, glare from the bangles and bracelets adorning her wrists bouncing off of the shiny, pristine marble. A golden tiara clutching a single, fist-sized sapphire balanced atop her head. Her large wings resembled those of an eagle, rich, earthy brown feathers flecked with white.
+
+Fifty-nine pairs of eyes fixed upon the center of the courtyard. A lone woman knelt on the warm stone. Her body had been stripped of the luxurious silk dresses donned by her jury, all jewelry and adornments yanked from her person save the single gold ring in her left nostril. The expensive garments had been replaced by a simple tunic of rough brown sackcloth. Her hands were planted flat upon the marble shoulder-width apart, fingers splayed. Heavy copper shackles locked around her wrists, chained to the ground and connected with a metal bar between them. With her ankles subjected to the same fate and a metal bar connecting the ones between her upper and lower limbs, the restraints forced the goddess to kneel in submissive supplication to the goddess of goddesses, Althea, Queen of the Heavens, Goddess of Rule and Sacrifice, Patron of Monarchs. Her platinum blonde hair cascaded around her bowed head in a waterfall of shimmering gold. Her powerful wings, white like the noble swan, were chained shut and drooped sadly at her sides.
+
+Althea's perfect lips pursed, her sharp blue eyes sparking with anger, betrayal, and pain. "Bethea, Goddess of Order and Punishment, Patron of Lawbringers." Her lips turned down at the corners, a slender hand raising at her side. "I, Althea, proclaim you guilty of blasphemy against the goddesses and label you Betrayer of this Court, Traitor to the Goddess. What have you to say in your defense?"
+
+Bethea said nothing. The thick metal brank covering her lips and the metal plate invading her mouth made sure of that. The heavy collar encircling her neck was chained to the bar connecting her wrists, keeping the goddess's head bowed in deference to Althea and her icy blue eyes fixed upon the streaked white marble.
+
+"You say nothing, for there is no defense for what you have done. For your reckless and foolhardy actions, you are stripped of your seat in this court." That no murmur rippled through the assembled goddesses at this unprecedented sentence was a testament to the fear and respect they all held for Althea, goddess of goddesses. "If it were within my power to revoke your immortality, if I could shatter your aspis and snap your spear and cast you into the sea, you would be there even now." A soft gasp sounded to Althea's left. Ignoring it, Althea lifted her hand, light shimmering around it before a thick, bladed polearm blossomed in her hand with a blinding flash. "I have always wished for nothing but the best for any of my sisters, but your brash and foolish actions could be fueled by nothing but hatred for your siblings. That you should do such while our people live in fear of monsters and beasts that even we, their Godesses, do not understand is the pinnacle of betrayal."
+
+Bethea's eyes flared in anger, her hands curling into fists. Had she been able to respond, she would have. Althea's keen eyes missed nothing. Her full lips turned upwards in a vitriolic sneer, continuing her pronouncement. "As it is not within my power to erase you from our sisterhood, I can only cast you out." Turning, she hefted her polearm easily with one arm and flung it towards the temple. It flew straight like a hunter's arrow, finding it's mark in the center of Bethea's aspis. The gilded bronze shielded tumbled to the steps below, landing with a clang, Althea's polearm stuck in the center but not penetrating fully through the gilded bronze..
+
+The Patron of Monarchs stalked over to the aspis and yanked her weapon free. A jagged scar marred the shield's surface, bisecting the symbol of Order and Punishment.
+
+<img src="Ch1/BetheaBroken.svg" alt="Bethea's Corrupted Symbol">
+
+"You will never again live amongst your sisters in this eden. You will be cast out to wander amongst the mortals." Walking over to her prisoner, Althea dropped the broken shield in front of her. The torn aspis stared up at Bethea, mocking her failure and her helplessness. A single finger trailed down Bethea's shoulder, and she felt a torrent of Althea's power rip through her body.
+
+"You have a choice. Your precious Order, the rule of law and civility that you so crave, will be a stranger to you. Your lineage, your blood, will only respond to chaos and discord. You must spend eternity feeding that which you hate most to maintain your wings and your strength." Bethea's wings shimmered, flexing as foreign energy forced them to glow and dissipate. Only a tattoo of their shape upon the former goddess's back remained. "Your temples will crumble, and the people will close their hearts to you."
+
+Althea stepped in front of Bethea and knelt, using a finger to tip the blonde's head ever so slightly forward and lock gazes with her. "Or you can give up and die like you deserve. Hide away in a cave until your memory is nothing but words on a page. Fade away into nothingness, where the filthy strife you so loathe cannot corrupt you. The choice is yours."
+//
+
+-----
+
+Bethea wakes with a start, head snapping up with a quick jerk. She blinks blearily, dreams of a time not long past melting into bleak reality.
+
+[[Having spent enough time moping, Bethea investigates her bonds.|Ch1-Investigate]]
+[[Bethea seeks escape in the land of dreams once more.|Ch1-Dream]]
+
+:: Ch1-Investigate {"position":"489,551","size":"100,100"}
+Bethea stifles a yawn, wiping the dreams from her eyes. The rattle of chains accompanies the movement. Looking down, she finds her slender wrists encased in heavy steel manacles. Chains are bolted to the warm surface beneath her, restricting the movement of her arms. She has enough chain to explore her own person, but very little to reach anywhere else. The rough tunic thrown upon her by her sisters is missing, replaced only by a simple set of brown cotton undergarments. Bethea doesn't find them overly uncomfortable, although her body is used to the most luxurious garb and she can certainly feel the difference. Similar manacles are locked around her ankles, albeit with much shorter chains keeping her stuck in place.
+
+The blonde goddess looks up, shading her eyes against the unexpectedly bright sun with her hand. A grate opens to the sky above, heat drifting lazily down through the gaps and warming the stones atop which Bethea is shackled. Her perch is made of brick. The bricks sport a reddish brown color in the light, and from what little she can see of the rest of her prison, so do the walls. Surprisingly, the hole in the ground is not exactly a cell: it's circular in nature, with an impenetrably dark passageway directly in front of her. Bethea is chained in place atop a raised brick platform. A small moat, for lack of a better term, surrounds the platform. Stairs lead down to the floor in the direction of the exit, crossing the moat. Leaning over to the side, Bethea can see the brick through the water. Not particularly deep, then. Otherwise, the room lacks anything of interest.
+
+During her sweep of the room, Bethea's eye catches on the corner of her platform. There's a slight crack in the brickwork. She leans over, chains jangling, to get a closer look. Some of the mortar has eroded: no doubt the skylight allows the weather to attack the masonry. She pokes experimentally, finding a brick that is quite loose. With the right amount of force in the right place, she might be able to break it free and use it as a weapon. A quick glance at her shackles reveal metal aged and battered by time and precipitation, certainly not the most secure chains in the land.
+
+The captive's attention returns to her restraints. Turning them over, Bethea finds a lock along the inside of her wrist, right over her pulse. She peers inside, using the light from the ceiling to get a better look. The locks are not overly complicated, just a simple set of tumblers. Had she the right tool, it would prove no challenge to pick: observing black-hearted mortals for a few centuries apparently has its benefits. Searching deep within herself for power, Bethea finds almost none. A faint, smoldering ember is all that remains of the raging fire she's used to feeling. Closing her eyes and focusing, Bethea manages to conjure up a single sliver of light, about as long as her pinky and as thick as a tailor's needle. She might be able to pick the lock, if she can maintain her focus before the last reserves of her strength dissipate.
+
+Her gaze wanders to the doorway. She can't see anything, not even the light of a torch or a lamp. Surely her jailers wouldn't leave her in such relative freedom unwatched, would they? Perhaps she could call for help, feign distress to lure a guard close enough for her to overpower and steal the keys.
+
+[[Using the sliver of light, Bethea attempts to pick the lock.|Ch1-Pick]]
+[[Bethea tries to break the brick free and use it to smash open her chains.|Ch1-Break][$chaos += 1]]
+[[Feigning distress, Bethea calls for help, hoping to be overheard by a guard.|Ch1-Call]]
+
+:: Ch1-Dream {"position":"328,454","size":"100,100"}
+//
+Bethea groaned, flexing her tightly bound arms. The chilly night air and the ocean waves lapping at her nearly nude body sent a shiver coursing up her spine.
+
+At the conclusion of her "trial," the metal contraption restraining Bethea had been removed, replaced by simpler bonds of leather and hemp. Her slender wrists were crossed between her shoulder blades, vertical and horizontal wraps of scratchy brown rope fixing them in place. More rope encircled her torso, squeezing her breasts from above and below while fixing her arms flat against her back. A separate length of rope was looped vertically between the upper and lower bands, then coiled around itself in a spiral pattern. The heavy clump of hemp nestled against the flesh at the base of her breasts, drawing the ropes tighter and aggravating her sensitive skin.
+
+Her legs had fared little better, eight separate hanks of rope lashed tightly in place around her bare arches, ankles, shins, knees, and thighs. The ropes were tight and unyielding, making the soft flesh bulge outwards to escape the pressure. Each rope was looped around both legs four times before being cinched tightly in between. Bethea couldn't even protest the indignity, her mouth packed full to bursting with small shreds of fifty-nine separate pairs of underwear. Each sister had ceremoniously cut a thumb-length strip from their undergarments and packed them into Bethea's cheeks to silence her "traitorous" mouth. By the end, once a plain white cloth had been pulled tightly between her teeth and a second was tied in place across her lips, Bethea's cheeks felt as if they would rupture any second. The final humiliating facet of her hemp prison was the rope leash fashioned around her neck, as if she were no better than a fatted calf to sacrifice upon an altar.
+
+The whole ensemble had been reinforced by multiple thick leather straps, roughly as wide as Bethea's fist. They had been buckled around her shoulders, across her breasts, around her midsection, and across her thighs to make sure she couldn't wriggle free of the other goddesses' knots. Althea's command that no locks be affixed upon the blonde's person had been followed dutifully, leaving Bethea more helpless than any pair of shackles would have.
+
+Her sisters had then cast lots, Dalthea drawing the shortest. Dalthea, Goddess of Love and Jealousy, Patron of Spouses, was Bethea's elder sister. She was a dark-skinned beauty with curly dark hair. A gentle soul who experienced emotions in their most intense form, Dalthea's warm brown eyes were scrunched with worry throughout the trial. Being chosen as one of Bethea's executioners unleashed tears of sorrow. Her sisters gently stroked her vibrant blue wings empathetically, well accustomed to her bouts of crying and none wishing to take her place.
+
+While the other goddesses comforted Dalthea, Paythea, Goddess of Foresight and Resignation, Patron of Oracles, sidled over to Bethea. The movement of her lips was nearly imperceptible as she whispered to the tightly trussed traitor. "Cling to your anger, dear sister, and your Virtue. I plead you, though, know that this may not be right, but it is necessary. Through you, and only you, this Court will remain strong against the danger ahead." Paythea's kind green eyes met Bethea's blues beseechingly. "You must trust me on this. Althea may not know, but her actions this day and your actions tomorrow ensure our survival." Raven-colored hair fluttering in the breeze, Paythea pressed a sisterly kiss to Bethea's forehead and wrapped her foreboding black wings around the blonde beauty in a quick embrace. Bethea could say nothing, and so she didn't, merely watching as her sister slipped back into the throng and puzzling over her cryptic words.
+
+The remaining eight and fifty sisters drew straws again, Hethea, the youngest of the sixty drawing the shortest. A luxurious blonde like Bethea, shiny hair falling in gentle waves to her ankles, the Goddess of Autarky and Isolation, Patron of the clergy, Hethea was a quiet and reserved woman. She was often found sitting cocooned in her silent, owl-like wings introspectively. Her face wore an emotionless mask, this task like so many others failing to crack her outer shell.
+
+Althea silently and solemnly presented her polearm to Hethea, whispering instructions to her. The quiet woman took it after a brief moment of hesitation. It glowed in her hand, pulsing with light for an instant before disappearing in a much brighter flash. Grabbing the leash, Hethea had wordlessly forced Bethea to follow her, the prisoner hopping helplessly along behind the other blonde goddess. At the cliff's edge, Hethea looped the leash around Bethea's neck and tightened, holding the coil of rope in an iron grip. Any amount of vigorous struggling quickly had Bethea choking herself. With Hetha taking one shoulder, and Dalthea reluctantly seizing the other, the pair of goddesses launched into the sky on their powerful wings. Bethea dangled helplessly between them.
+
+The trio had flown for hours, the warm summer sun giving way to the cool embrace of dusk before the goddesses had alighted upon the first foreign shore they came across. Bethea was dumped onto the sandy beach unceremoniously by Hethea, but Dalthea broke her fall and eased her into the sand. Both seemed to dread what was to come next. Dalthea, fighting off tears once more, shook her head. "We can't just leave her like this..."
+
+Hethea stood, silent for a long minute. Her words emerged like the whisper of a weak summer wind, barely audible over the gently lapping surf. "Althea will do the same to us if we do not do this to Bethea." Still, Dalthea looked torn, alternating her gaze between her two blonde sisters.
+
+"If you can't do it, then I will." Hethea held out her hand, Althea's polearm reappearing in a blinding pulse of light. With an uncharacteristic warcry, she pivoted the polearm downwards and thrust it into the ground. The fearsome weapon sliced through rock and stone, sticking immovably into the trembling earth. Hethea unwrapped the leash from around Bethea's throat, but did not release it. Instead, she rolled Bethea onto her stomach and folded her legs up behind her. The rope was knotted tightly around her ankles before being anchored to the polearm. The tie left Bethea balancing on her stomach, roped into a hogtie that choked her were she to relax too far in either direction. The fallen goddess remained stoic and silent, staring straight ahead.
+
+Tears falling, Dalthea brushed her knuckles across Bethea's bulging cheek, gently placing her lips to the reddened skin. "May Mother's wings protect you." Tears flowed freely down Dalthea's cheeks. Hethea, watching, let out a soft sigh, a single tear slipping down her cheek as well.
+
+"Be safe, sister."
+
+Her sisters had left her then, leaving her helpless and hogtied on the cold beach, icy water seeping through her thin tunic and making her shiver. Hours passed, the stars watching over her in faceless pity. Bethea was exhausted, but the torturous pose kept her slumber at bay. As the first fingers of dawn pried at the inky black veil of night, Bethea heard voices behind her, followed soon thereafter by the crunch of sandals upon sand.
+
+"Oh, sisters, how you doubt the almighty Althea! Did I not say that she appeared to me in a dream, leading us to this very beach where a heretic lay awaiting our divine punishment?" Bethea shuddered, not liking the sound of that at all. The speaker and her companions moved around in front of Bethea. The speaker was fully nude, an older woman with slightly wrinkled skin and sagging breasts. Her black hair, pulled back in a wiry bun and flecked with gray, was the only thing covering an inch of her skin. Anyone would know the priestesses of Althea on sight, for they remained ever nude to praise the glorious female form favored by the Queen of the Heavens. Her companions appeared, in contrast, to be soldiers, three younger women with sun-bronzed skin and clad in light armor. "Let your doubts be forever cleansed, Althea makes her will known!"
+
+Bethea fought the urge to roll her eyes at the dramatic show, but the soldiers clearly were more impressed. Their wide eyes looked back and forth between Bethea and the priestess in awe.
+
+"As Althea commands, we must return this heretic to the fold of her bosom and teach her the error of her hateful ways!"
+//
+
+-----
+
+Bethea's eyes fly open again, although with less force than before. Groggily, she sits up. Reality couldn't be worse than her dreams... could it?
+
+[[Bethea abandons sleep and looks over her restraints.|Ch1-Investigate]]
+
+:: Ch1-Pick {"position":"539,698","size":"100,100"}
+Keeping her hand as steady as possible, Bethea slips the glowing needle into the lock on her left wrist. The shaft clicks and clinks against the metal as she fiddles with the tumblers despite appearing to be nothing more than a bright ray of sunlight. The blonde's breathing becomes heavier, her heart beating faster and faster with the effort of maintaining the tiny lockpick. Sweat beading on her forehead, skin pale, Bethea manages to push the final tumbler into place. A gasp slips from her lips as the manacle clank to the ground noisily.
+
+Holding her breath, Bethea looks to the doorway. Time slows to a tortoise's pace as the goddess waits for the cry of alarm as guards pour upon her like waves upon the coast. But none come. Emboldened, she takes some time to rest before using the summoned lockpick to unlock the shackles encircling her ankles, the drain on her abilities even more noticeable than the last time. Having figured out the first lock, the next two are slightly easier, and she manages to free her legs just in time. Panting and drenched in sweat, Bethea collapses to the brick surface. She rests for a long time, weak and drained of strength.
+
+The light does not come when Bethea summons the courage to attempt to unlock her right wrist. It flickers and dies nearly immediately, just a few shimmering sparks around her fingers. The smoldering embers within her feel as if they've been submerged in a bucket. The thought of water fights off despair. The goddess crawls over to the edge of the platform. With her ankles and one wrist free, she is able to stretch out across the platform and reach down to scoop at the water below. Bethea is parched, but the thought of drinking the water pooling in the dank dungeon makes her want to vomit nearly as much as drinking it would. Instead, she dumps the water onto her captive wrist, scooping handful after handful until the skin is soaked, glistening in the sun. She then sets to work slipping her hand free of the cuff.
+
+It's tedious, painful work. Her smooth skin rubs raw against the aged metal. Back, and forth, tugging, pushing, pulling. Were her skin that of a mere mortal, surely it would be bleeding and ravaged by now. She pins the chain to the floor with her feet for leverage. Fortunately the shackles are slightly too large for the goddess's limbs, and after what feels like hours, Bethea manages to yank her wrist free. She nearly falls backward, surprised to be free. Grimacing, Bethea massages the poor reddened skin.
+
+Not wanting to waste time and be recaptured, she scrambles to her feet. The sight of the vacated cuff gives her pause. No doubt whoever discovered her disappearance would find it quite strange indeed that one shackle was untouched, as if she'd just passed straight through the metal. A wicked thought flickers to life in her brain, the confusion that would ensue were her captors to find her gone, vanished straight through the chains that remained locked around nothing. Kneeling quickly, Bethea hurriedly closes the unlocked shackles, hearing the satisfying click of the locks relatching. Her heart flutters in her chest, and she feels a surge of warmth deep within her, the battered embers of her fire giving off a soft glow. With a sliver of hope piercing her chest, Bethea quickly makes her way to the darkened passageway.
+
+[[Bethea slinks through the dungeon, looking for an escape route.|Ch1-Sneak][$chaos += 1]]
+
+:: Ch1-Break {"position":"740,689","size":"100,100"}
+Bethea smacks the heel of her palm on the corner of the loose brick. It gives slightly, but remains mostly intact. Grunting, Bethea tries again, careful to strike at an angle to push it outwards. The second time is the charm, the brick popping out a thumb's length. Bethea grabs the end, twisting the brick up and down until it pops completely free.
+
+The goddess turns her shackles over, looking for the weakest point. Her focus narrows onto the chain on her left wrist. The links are ancient and rusted, and the first one off the shackle bears a noticeable groove where years of struggling prisoners and pounding rain have made their mark. Carefully, Bethea maneuvers herself with her left arm resting to her side. She kinks up the chain, carefully folding the links so that the surrounding links are exerting pressure on the compromised one. Pinning the chain in place with her bare right foot, Bethea raises her brick aloft and brings it down on the chain with all her might. A loud cracking sound echoes around the chamber. A chunk of Bethea's brick goes flying across the water, clattering to a standstill near the wall. Frozen, listening for any cries of alarm or shouts of surprise, Bethea waits.
+
+Hearing nothing, she tries again. A good quarter of the brick fell victim to her first attempt, so Bethea flips it around and swings again. The chain rattles under the impact but remains unbroken. Fortunately, Bethea's weapon does as well. Throwing caution to the wind, the goddess begins to savage the chain. She grunts with each strike, hammering the rusted metal like a blacksmith. Finally, the chain pops free. Bethea collapses in a heap, breathing heavily. Despite her exertions, she feels something surge within her, her inner fire flickering to life. Apparently a prison break counts as "chaos and discord."
+
+Bethea inhales deeply. Pulling at her blood, coaxing her gifts forth, Bethea gives a tug on her right wrist. It pops free with little effort, the chain giving way like wheat to the scythe. The goddess easily shucks off the shackles around her wrists. Breaking free her legs require merely a handful of steps. With a glimmer of her former abilities, the chains break and shatter under the attack of a normal walking motion. She surveys her handiwork, the mangled and broken metal sending a trill straight to her blood. It certainly isn't the height of her power, but Bethea certainly feels more like her usual self. The blonde goddess makes her way to the passage, making sure to move slowly and quietly through the shadows. She feels some strength, but has no idea how reliable it will be. Best not to tempt fate.
+
+[[Bethea slinks through the dungeon, looking for an escape route.|Ch1-Sneak][$chaos += 2]]
+
+:: Ch1-Call {"position":"152,697","size":"100,100"}
+<<set $ch1_call_guard = true>>\
+Convinced that no one would go to the trouble of chaining her up on a pedestal in the sunlight and just leave her alone, Bethea begins formulating a plan. She angles herself on her side, left arm beneath her and right arm twisted awkwardly behind her. She lies facing the entryway, allowing her to watch anyone approaching through her eyelashes. She can form a quick battle plan before feigning unconsciousness once they get closer.
+
+Inhaling deeply to calm her nerves and steady her resolve, Bethea lets out a blood-curdling scream followed by a low moan. Then she remains still, splayed atop the warm brick as if struck. Forcing her breathing to remain shallow yet steady and her heart to cease its frantic pounding, Bethea waits. For a long, brief moment, she hears nothing. Perhaps she really is alone. Seconds pass like hours before she hears the quick staccato of sandals on stone. Gradually, she sees a young woman emerging from the darkened corridor.
+
+Her skin is a sun-kissed olive hue, with dark raven locks tumbling to her shoulders. She has the toned muscles and fit form to be expected of a competent soldier or guard. A midnight blue, knee-length dress hangs off of her right shoulder. The left is bare. Brown leather sandals hug her feet and calves, criss-crossing straps forming an intricate diamond pattern over her shins. A featureless brown belt cinches the dress around her waist, a simple wooden cudgel tucked against her flat stomach. A simple leather breastplate and a bronze helm, shaped like an upturned bowl and sporting a single metal spike on top, complete her light kit. Bethea's anger surges as she sees the breastplate is gilded with Althea's crest: <<print $female_city_name>>. She isn't going to find much sympathy here.
+
+<img src="Ch1/Althea.svg" alt="Althea's Symbol">
+
+Bethea closes her eyes and remains limp as the guard approaches. She desperately tries to draw on her power, the effort making her skin pale and her breathing more ragged, her heartbeat flickering. Hopefully the effort, while painful, would add credence to her ruse. The chained goddess hears the woman's sandals tapping on the brick platform, feels the warmth disappear as the guard's shadow blocks out the afternoon sun. A foot prods her, and she schools herself to not react.
+
+"Hey. Wake up. What was that scream?"
+
+The woman kneels down, running her hands over Bethea's prone form in search of an injury. With her this close, Bethea is fairly certain she could reach the cudgel. If she were fast enough, she could fell the woman and hope she had the keys upon her person. The woman's fingers press against Bethea's neck, feeling the erratic and weak heartbeat Bethea willed into existence.
+
+"Dammit."
+
+Bethea feels herself being rolled over, her arms untangled once she's laying flat on her back. The woman leans in close, inspecting the goddess's torso for obvious signs of a wound. The blonde beauty probably won't get a better chance to strike than this, her captor easily within reach and quite distracted. She could go for the cudgel, or make one last-ditch effort to call upon her power. Surely it wouldn't abandon her when she needed it most...
+
+[[Bethea calls on her inner power, preparing to smite the mortal guard with her holy might.|Ch1-Power]]
+[[Bethea feigns a punch towards the guard's face before grabbing for her cudgel.|Ch1-Weapon][$chaos += 1]]
+
+:: Ch1-Sneak {"position":"688,909","size":"100,100"}
+Bethea moves slowly and carefully, thankful that the passageways of the dungeon are dark and gloomy. She skulks to avoid attention, keeping low to the ground and feeling her way forward with a feather-light touch against the brick wall.
+<<if !$ch1_call_guard>>\
+
+A few hundred paces from Bethea's abandoned chains, the goddess encounters a guard. She is a giant of a woman, easily a head taller than Bethea. Her skin is a sun-kissed olive hue, her hair a rich black glistening in the flickering light. The guard's chest rises and falls gently beneath a simple leather breastplate and a thigh-length midnight blue dress. A generic yet effective copper helm rests snugly atop her head. The guard is snoozing in a rickety wooden chair, sandaled feet propped up on a rough wooden table. A lone candle flickers atop it. Bethea's lips purse at the sight of the deep blue dress, Althea's color mocking her. Her elder sister's crest glistens on the guard's breastplate. She should have known she was in <<print $female_city_name>>. She isn't particularly thrilled about it, either.
+
+<img src="Ch1/Althea.svg" alt="Althea's Symbol">
+
+Bethea spies a club of some sort tucked into her belt. She briefly considers trying to overpower her, but quickly rejects the idea. The woman is a veritable mountain, and there is no way of telling how deep of a sleeper she is. Having only just escaped from her chains, Bethea isn't keen on being manhandled into more. Stealing carefully by on the balls of her feet, the golden-haired beauty dissolves into the gloom once more. Safely past the guard, Bethea continues on her way.
+<<endif>>
+Bethea's escape proceeds slowly but steadily. The majority of the torches in the prison remain lifeless and dark, aiding her efforts to remain unseen but hindering her ability to move quickly. The goddess is fortunate in that the prison seems nearly deserted. Save the lone guard, she hasn't seen another soul for what feels like an hour. The maze of passageways writhes and twists through the darkness, empty cells lining Bethea's way. Each time the goddess comes to a fork or an intersection, she peers down each potential path. After determining which one seems the darkest, she takes it: only people who had a reason to be walking freely through a prison would want to give themselves away with a torch.
+
+After hours, possibly minutes, of wandering aimlessly in the thick darkness, Bethea finally spies light at the far end of a passageway. Not the wavering orange flicker of fire, but the steady white haze of sunlight. The goddess forces herself to contain her excitement and sneaks forward. Doubly cautious, Bethea makes it to the end of the hallway and peers around the corner. The first thing she spies is a wooden door with a semicircular window. Iron bars set in the window cannot block the sun's warmth from streaming inside the dark prison.
+
+The welcoming rays bathe the small entryway in natural light. The room is circular, a table and two chairs in the center. A long black cloak is draped over the back of one chair. Another guard sleeps in the second, slumped over the table with her head resting on her folded arms. A dainty snore wafts from her lips. Her hair is a blazing orange, skin pale and smooth like pearls. A dark blue dress hugs her slender form. Armor is discarded in a haphazard pile at her feet, matching the equipment of the other guard. Atop the table is a discarded book and an unlit candelabra. Twinkling in the afternoon sun, the solid gold ornament could easily separate someone from their consciousness. Especially if they were so foolish to remove their helm.
+
+As silently as possible, Bethea slides the cloak off of the chair and slips it on, closing it around her nearly nude body. The goddess fastens it in front and flips the hood over her pale hair. It fits nearly perfectly, falling not an inch above the ground and hiding everything but her face and toes. Satisfied, Bethea turns her focus back to the door. She doesn't see a lock of any sort. While her chances against the slumbering wisp of a woman are favorable, it might also be prudent to just slip outside quietly.
+
+[[Bethea slowly wraps her fingers around the stem of the candelabra, raising it and slamming it down against the back of the guard's head.|Ch1-Assault][$chaos += 1]]
+[[Not wanting to draw extra attention, Bethea slips out the door while the guard is sleeping.|Ch1-EnterMarket]]
+
+:: Ch1-Power {"position":"27,930","size":"100,100"}
+Trusting her blood, Bethea snaps her eyes open and shoves at the guard. Surprised, the woman stumbles backwards. She trips over her own feet and falls to her butt atop the brick. Letting out a fierce cry, Bethea flies to her feet and surges forth. She draws on her inner fire, calling forth her wings and her spear. The goddess barrels down on the stunned guard...
+
+...Only to stop short in an instant. The chains snap taught with a clank, holding firm against the powerless goddess. She turns instinctively, surprise radiating from her rich blue eyes. Bethea yanks against them, dumbfounded at her helplessness. The goddess turns back to the guard just in time to see a club slam into the side of her skull. Letting out a pained groan, the blonde goddess collapses to the ground in an undignified heap of metal and flesh.
+
+[[Bethea slips unconscious and slumps to the cold stone floor.|Ch1-Defeated]]
+
+:: Ch1-Weapon {"position":"281,851","size":"100,100"}
+Bethea's feint works, eliciting a startled cry from the guard as she instinctively raises her hands to protect herself. Bethea's hand moves like lightning, snatching the cudgel from the guard's belt and swinging it towards the right side of her head. No slouch, the guard recovers quickly and catches the goddess's forearm, surging forward and pushing the chained prisoner onto her back. Growling, the blonde goddess yanks backwards with her trapped arm, pulling the guard down towards her. Bethea uses the momentum to hit the bridge of the dark-haired beauty's nose with a vicious headbutt. Their heads collide with a crack, the goddess's aim being true as her head avoids slamming into the guard's helmet.
+
+The olive-skinned woman's head snaps back with a groan, and Bethea presses her advantage. She snaps her arm forward and slams the cudgel into the side of the woman's helmet. A ringing clang reverberates around the prison walls. The guard is stunned, collapsing to her side in wobbly fashion. Smelling blood in the water, Bethea swings the club one more time, connecting with the back of the other woman's head. She collapses in an unconscious heap with a pained moan.
+
+Unsure if anyone heard her ring the guard's bell, Bethea works quickly. She rolls her unconscious victim onto her back, performing a perfunctory search of her person. A single key lays between her breasts, hanging from a simple chain. Extracting it, Bethea tries the key in her shackles. They drop away with a satisfying click. Now free, the blonde goddess stretches luxuriously.
+
+She quickly strips the guard to her skivvies, tallying up the useful information. In addition to the armor and dress, the guard is carrying a small bronze dagger. Bethea finds a few hanks of thin cord in one of her pouches: certainly suitable for restraining a captive. She could tie up the guard to keep her out of the way, although that would take precious time in which she might be caught any minute. There was a definite appeal to masquerading as a guard herself, although perhaps the best strategy would be to just get out of here as quickly as possible.
+
+[[Slipping into the shadows, Bethea leaves the guard, trying to escape as quickly as possible.|Ch1-Sneak]]
+[[Bethea takes the time to restrain the guard, not wanting her to raise the alarm too soon.|Ch1-Restrain][$chaos += 1]]
+[[Bethea takes the time to don the guard's gear, hoping to blend in on her way out.|Ch1-Gear]]
+
+:: Ch1-Defeated {"position":"23,1532","size":"100,100"}
+Having lost their prisoner once, the guards of <<print $female_city_name>> didn't seem too keen on allowing it to happen again. As such,  Bethea's current predicament can only be described as... excessive. Leather straps, complete with padlocked buckles, encircle her ankles, shins, above and below her knees, and her mid-thighs. Each is fastened brutally tight and forces the soft flesh to bulge around the intruding belts. Apparently this is not sufficient, however, as rope and cord is strictly knotted around the goddess's legs in between each belt. A delicate toe-tie and ropes around her bare arches make sure that even Bethea's feet can't move.
+
+Bethea's upper limbs suffer a similar fate, belted stringently together at the wrists, forearms, and elbows with reinforcing rope and cord around her palms, forearms, and upper arms. The tightly trussed limbs are totally trapped against Bethea's back by four wide leather straps. One encircles her torso just above her bust, while the other one does so just below. The resulting pressure forces the soft flesh outwards, only to be caved in by a strap pulled tight over top of her nipples. Flesh balloons outward above and below the leather, discomfort and pain flaring through the goddess's breasts. The final strap is locked about her waist and forearms, drawing her sides inward and making breathing laborious.
+
+The blonde goddess's mouth is faring little better, muted by a Scold's Bridle of particularly cruel design. A thick steel band travels over her head and between her eyes, splitting around her nose. The unyielding metal ensures that any attempts to remove the cloth blindfold beneath are futile. This connects to a wide metal plate which encircles the entire lower half of Bethea's head from septum to chin. It is molded perfectly to the goddess's form, leaving no space. A large steel sphere is bolted onto the interior of the plate and stuffed inside Bethea's spread lips. The girth alone would likely suffice to stop her from spitting it out even without the steel frame, but the sharp metal plate pressing against the underside of her chin ensures that any attempts to open her mouth further are punished promptly.
+
+Bethea would be helpless and hopelessly trapped even if she weren't dangling upside down from chained ankles. Said chain plus the noose looped about her exposed neck and anchored to an eye bolt in the floor just make matters even more uncomfortable. Of course, the fact that she is strung up so inside a shoulder-width cylindrical oubliette buried deep in <<print $female_city_name>>'s dungeons with nary a sliver of free space to squirm is merely an additional complication. Each slight movement causes her breasts, arms, and backside to brush against the rough stone surface of her prison.
+
+Sealed in inescapable bondage inside an inescapable cell within an inescapable prison and isolated from any source of discord or chaos by tons of thick stone and brick, Bethea's power lays dormant and useless. Just like her.
+
+[[Bethea hangs helplessly in the darkness.|Ch1-BadEnd]]
+
+:: Ch1-BadEnd {"position":"31,1752","size":"100,100"}
+//
+The moon bathes the mountain plateau in cold blue light. It settles calmly over the empty temple roof, unbroken in its descent. Twelve fluted columns, thick like the eldest of oaks, stand in silent mourning of the broken and crumpled shields dotting the courtyard below. The cracked and shattered remains of once noble stone beasts cling lifelessly to their tips. Nothing moves atop the mountain, a dead silence weaving through the menagerie of statues. Dozens of statues, frozen monuments to the variety of life, dot the hillside and the temple courtyard, faces frozen into grotesque contortions of fear and rage. Wind whips the sea into a frothy frenzy, wave after wave crashing angrily into the shoreline. The three solitary peaks cast monolithic shadows across the turbulent tide, rising in fearsome dominance against the clear night sky.
+
+Deep beneath the highest summit, tucked away from the angry moon like a gang of weasels ravaging a rabbit's warren, an army of cloaked figures chant monotonously around a slab of obsidian glass, colored as the deepest crevices of the sea. Its pure surface bounces the flickering torch light in every direction, appearing more alive than the mountain's now dead temple under the undulating array of reflections. A thick gold chain composed of sixty solid links is bundled about the impressive shard, shimmering in the light of the flames. The chanting remains a constant thrum, each voice uttering the same three word phrase in perfect unison to form a physical force of sound.
+
+A lone figure stands apart from the throng, shrouded in a hazy black cloak and a thick mist of mystery. Its right hand clutches an impressive sarissa, exceeding the figure in height by nearly a full head and sporting a wickedly sharp blade. The deadly polearm emits a hue of golden light, bathing its wielder in a soft glow. With the dark fabric of its cloak snapping like thunder, the figure smashes the weapon into the golden chain. The malleable metal cracks but holds firm, rebuffing the blow. Accompanied by a ferocious cry mirrored by each and every chanter, the spear falls onto the chain again and again. Each strike introduces more fissures and dents into the precious links of the chain. Finally, the chain snaps. Golden chips rocket about the cavern with enough force to draw blood. The obsidian slab shudders, shaking under some unseen force. A raucous cheer shakes the entire subterranean system, molten liquid bubbling out from beneath the massive black rock.
+//
+
+-----
+
+Bethea wakes with a start.
+
+-----
+
+<<print $land_name>> yet tumbles towards an irreversible calamity, the forces of hatred and bitterness marching towards one another to create utter bedlam. Only one can prevent the madness, yet only with better decisions may she succeed. Use the navigation buttons in the menu to go back and try again, or click [[here|Ch1-Start]] to begin the chapter anew.
+
+:: Ch1-Restrain {"position":"430,904","size":"100,100"}
+<<set $ch1_bind_guard = true>>\
+Bethea rolls the guard onto her stomach, admiring her physique. The woman is quite pretty, although she is clearly a woman of work. Firm, toned muscles shift beneath her skin. Said skin, while gloriously tan, is marred in places by thin and thick white scars. One might even describe her as an amazon, nearly a head taller than Bethea with biceps the size of the goddess's whole arm. Bethea is quite glad she'd opted for the element of surprise rather than a head-on confrontation.
+
+The goddess sets to work making sure the impressive woman is well and truly trussed. Bethea collects the guard's wrists together behind her back, then wraps some cord around them horizontally. After a handful of loops, the blonde beauty cinches the cord vertically between her victim's arms. After checking the knot, doubling it for added security, Bethea repeats the process just above the unconscious woman's elbows, drawing them together until they nearly touch. The guard is quite flexible despite her muscular stature.
+
+Bethea moves downwards to the guard's long, muscular legs. Pushing them together, the goddess binds them at the ankles, knees, and thighs with three separate lengths of cord. Each piece is wrapped and cinched into a tight two-column tie matching the ropework around the guard's arms, tight strands pressing into the skin and forcing the flesh to bulge outwards. Bethea has quite a few ideas of how to improve the tie: A cord traveling from the elbows around the shoulders to force her chest out, cords sandwiching the soft flesh of her chest and trapping her arms against her back, a devilishly knotted cord traveling deep between her legs...
+
+Unfortunately, she only has one cord left. Opting to use it for added security, she folds it in half and centers the bight just beneath the guard's ankle bonds. The cord wraps vertically around the cinched wraps, then is slipped through the bight. As Bethea tightens, the cord grabs the ankle restraints snugly. The goddess pulls upwards, tucking the amazon's feet up against her rump. She then winds the cord around the elbow bonds, tying a knot to lock the unconscious woman into a strict but not backbreaking hogtie. Bethea wishes she had the material for a gag, but she had other plans for the pile of clothes she'd stripped off the dark-haired beauty.
+
+[[With the guard properly incapacitated, Bethea turns her attention to the pile of discarded gear. Its owner won't be needing it, after all.|Ch1-Gear]]
+
+:: Ch1-Gear {"position":"304,1066","size":"100,100"}
+Quickly, Bethea slips into the guard's discarded clothes. The dress is a little loose, the neckline having been relatively modest on the large guard. On Bethea, it shows a fair bit of skin, and the hem droops below her knees. Once she dons the breastplate and buckles it into place, though, the former problem is moot. Carefully, the goddess uses the dagger to cut around the hem of the skirt, shortening it to mid-thigh to match the style of its former wearer. She doesn't want to appear out of place.
+<<if $ch1_bind_guard>>\
+
+Considering the discarded strip of fabric, Bethea looks to the bound guard with a devious grin. Inadvertently, she had solved her previous problem. Kneeling next to the hogtied beauty, Bethea pries open her mouth. Using the dagger to cut the discarded hem in half lengthwise, the blonde goddess shoves one half into the unconscious guard's mouth and tightly knots the other between her lips, sealing the wad of fabric inside.
+<<endif>>
+Bethea dons the greaves and sandals, tightening the laces extra tight to compensate for the slightly too large size. After hooking the dagger to her belt and slipping the club into place, the only remaining item is the helm. Like the rest of the gear, it is slightly too large and has a tendency to slip down over her eyes if she isn't careful. Still, her brilliant blonde hair is rather distinctive even amongst her sisters, let alone mortals, and a skewed helmet is still less noticeable than a blindingly bright mane of hair.
+
+Not wanting to be caught standing over an unconscious guard in her prison, Bethea shuffles quickly to the passageway and into the darkness, occasionally touching a hand to the helmet to right it. She walks with purpose, her back straight, not wanting to attract attention by skulking. The prison seems to be mostly empty, over half the sconces sleeping silently in darkness beside rows upon rows of empty cells. Either <<print $female_city_name>> has very little crime, or Bethea was purposefully imprisoned away from the rest of the jail's residents. Bethea liberates the first lit torch she finds, fortunately not having to stumble too far in the pitch black tunnels. She passes numerous forks, peering down each potential path to try and ascertain which, if any, has more light. Where there's light, there's escape.
+
+After nearly an hour of trekking, Bethea hears the soft murmur of carried voices. Weighing the pros and cons, she figures the possibility for getting out of this place outweighs the risks. Following the sounds, heart beating a sharp staccato in her chest, Bethea stumbles into a small, well-lit chamber. Three guards, dressed identically to the imposter amongst them, sit at a small table in the center of the room, playing a hand of cards. The Goddess must have smiled upon her errant daughter, for none of them look up as she enters. She takes the time to observe her surroundings.
+
+A circular room fashioned from the same brick as the rest of the prison, Bethea spies three exits. In addition to the passageway she has just emerged from, there's an imposing wooden door to the left, and a curved staircase to the right. The staircase seems far more well-lit than all of the passages Bethea has found so far. She guesses that it doesn't lead to more prison cells, although she can't be certain. Keeping her pace so as not to draw attention to herself, Bethea steps into the room. Just then, the door on the left flies open. Bethea nearly jumps out of her skin. A tall, imposing amazon strides through. Pale-skinned with a fiery sunset for hair, the guard is even bigger than the one Bethea overpowered. She managed a grunt of greeting to the three guards on her way by, nodding in Bethea's direction as she passed her. Not having seen any other guards or prisoners on her way out, Bethea thinks it's a safe bet that the warlike woman stomping past her is about to find her unconscious comrade. She needs to move fast.
+
+Bethea exhales slowly as the guard marches past, her disguise having passed its first test. The goddess sneaks a glimpse through the now open doorway. Her breath catches. Two-story beds line the far wall, and long tables occupy the center of the room. Dozens of women mill about in varying states of dress, those fully dressed clearly guards. Some sit at the tables, eating and engaging in games of chance, while others sleep or recline in their bunks. It's the guard barracks. A barracks must certainly have a way outside, and she might be able to glean some useful scuttlebutt, but it would also be incredibly dangerous. The safer play would be to sneak up the stairs and out of sight, though. Should she really risk entering the lion's den?
+
+[[Bethea slips up the stairs to look for a way out, thinking the less guards she runs into the better.|Ch1-Palace]]
+[[Bethea walks into the barracks, pretending to belong and hoping to overhear some useful information.|Ch1-Barracks]]
+
+:: Ch1-Palace {"position":"482,1152","size":"100,100"}
+Bethea makes for the stairs without breaking stride. Her heart hammers in her chest. Every second passes, another chance for her to be called out by the surrounding guards gone. To the goddess's great relief, she makes it to the stairs unchallenged. Forcing her breathing to remain steady, she begins climbing.
+
+It's a short climb, leading to a thick wooden door. Fortune remains with Bethea and the door is unlocked. Slipping through, Bethea finds herself in a basement of sorts. The room is clean and well lit, a cool, comfortable air wrapping around the escapee in welcome. Rows upon rows of stacked barrels extend down the hall to her right, and a second flight of stairs curves out of sight to her right. A wine cellar, perhaps?
+
+The blonde beauty turns to the left and mounts the stairs. She's not likely to find much assistance in a wine cellar. What could she do, ride out in a barrel? That would be absurd. The second flight of steps is even shorter, only a few dozen steps before Bethea is at the top. The second door is much different than the previous ones. While also made of wood, it is gilded in gold and features mythical epics in artistic relief, heroic tales and tear-jerking tragedies inscribed in beautiful detail. Bethea feathers a touch across the familiar stories before shoving the door open and stepping through.
+
+The goddess finds herself in a palace fit for her lineage. Fluted columns stand watch over pristine marble floors. Nude sculptures of perfect women stare blankly at the goddess, who herself marvels in awe at the grand artistry on display. Even the walls feature intricate reliefs detailing the long history of <<print $land_name>>, paints and dyes bringing each to vibrant life. Or, at the very least, <<print $female_city_name>>'s version of history. Bethea loses herself in the craftsmanship, drinking in each masterpiece in turn with equal reverence. While no stranger to artistic elegance, Bethea had never been so aware of the works of humans and their unique style.
+
+Bethea's trance is broken by the sound of footsteps echoing along the corridor. Schooling her features, Bethea returns to her purposeful marching stride. Relief washes over her as she passes a plainly dressed young woman carrying a bucket of water and a mop. Refocusing on finding a way out, Bethea tries to guess where the servant came from. A servants' entrance would be the perfect escape route. Unfortunately, the goddess doesn't have much luck. Every intersection or fork or staircase she comes to leads to an area just as opulent as the last.
+
+Minutes turn into hours as Bethea wanders the massive palace. The artwork is never boring, but frustration begins to set in. Eventually, finally, Bethea turns the corner to find a row of doors on the right and glorious, blessed windows opposite them on the left. The goddess pokes her head out the first one, scoping out the situation. The earlier afternoon sun has faded to the glowing pink of sunset, the heat giving way to cooling comfort. Bethea's heart sinks. The window opens up onto a picturesque garden, which itself overlooks a bustling bazaar far below. That would have been excellent, were the garden not three stories below the window.
+
+Growling in frustration, Bethea scans the courtyard. Her eyes catches on the wall further down the hall. Walking swiftly, Bethea moves to the end of the corridor and looks out the far window. A wooden trellis is propped against the smooth stone wall. Purple flowers bloom along its length, waving a greeting in the gentle breeze. The goddess smirks: Finally, a way out. The trellis looks sturdy, with enough space between the slats to serve as both foot and handholds. Climbing down would be a cinch.
+
+The pitter-patter of little feet on smooth marble reaches Bethea's ears. A door opens around the corner. The goddess whips her head around the corner, heart pounding in her chest. She's just in time to see the door inching shut. Voices sound behind her, down the corridor.
+
+"Find him! You three, check the gardens. The rest of you, come with me and search the rooms."
+
+Bethea looks around frantically. She hadn't heard the door lock, so she could take her chances slipping in there and hiding. Her original plan might still work, although if the guards came upon her climbing down the trellis her disguise would be well and truly cooked.
+
+
+[[Bethea slips into the room to hide and eases the door shut, locking it behind her.|Ch1-Hide]]
+[[Hunkering low to avoid attention, Bethea ducks out the window and clambers down the trellis.|Ch1-Garden]]
+
+:: Ch1-Barracks {"position":"169,1162","size":"100,100"}
+Exuding a confidence she doesn't possess, the blonde goddess strides into the barracks, shouldering her way past a guard with a murmured apology. The barracks is spartan in decor, cold brick walls lined by simple wooden beds and little else. None of the guards seem to be much in the way of personal expression: Bethea doesn't see any personal knickknacks or trinkets anywhere. Perhaps they frequently rotate through assignments?
+
+Glancing about furtively, Bethea makes her way over to one of the empty bunks, moving as if she has every right to be there. It wouldn't do to stand around gawking like the interloper she is. A simple black cloak is draped over the side of the bed, clean and neatly folded. She picks it up and drapes it over her arm. A quick visual sweep reveals a locked trunk beneath the bed. There might be something useful inside, but trying to break into a locked chest in front of nearly two dozen guards probably wouldn't go over particularly well.
+
+"Hey, newbie, come join us."
+
+Bethea fights the urge to freeze in her tracks, turning casually to face the speaker. A half dozen guards sit around one of the tables surrounded by three times as many empty tankards. Each is wearing a dress to match Bethea's stolen garb, but lacks the matching armor. Based on the cup of dice and the slight sway to some of them, they've just gotten off duty and are taking full advantage of their free time. The speaker is an older woman, long black hair streaked with grey pulled into a tight bun at the top of her head. Her steel grey eyes are sharp as a blade, although her weathered face is turned up into an inviting smile in Bethea's direction. She's only slightly shorter than Bethea, albeit the tallest of her group. She drums her fingers on the table, shooting Bethea a wink. "Come on, I could use someone fresh to swindle out of their pay, these suckers have given me all of theirs."
+
+Bethea glances around. The barracks has somewhat emptied out during the exchange, leaving just the goddess and the group making merry. Joining them would no doubt be quite dangerous, but she could potentially be rewarded with some juicy information. The exit is closed, although Bethea doesn't see a lock. She could make her excuses and slip out before they become too suspicious. Or perhaps they already suspect she's not who she pretends to be. Bethea might need to fight her way out, in which case attacking first could prove the difference between success and failure.
+
+[[Warily, Bethea joins the guards for their game, not wanting to attract attention.|Ch1-Join]]
+[[Mumbling something about being late for guard duty, Bethea slips outside before the women can protest.|Ch1-Leave]]
+<<if $chaos >= 2>>\
+	[[Realizing her cover is blown, Bethea launches a pre-emptive attack.|Ch1-Attack]]
+<<else>>\
+	[[Realizing her cover is blown, Bethea launches a pre-emptive attack.|Ch1-Lose]]
+<<endif>>\
+
+:: Ch1-Join {"position":"156,1326","size":"100,100"}
+With a slight smile, Bethea makes her way over to the group. She slips her helmet off, giving her head a little shake, the blonde waves shimmering. The guards cast a surprised look to her brightly colored hair, but otherwise say nothing. Two of the women scoot apart, making space for Bethea to sit between them, directly across from the speaker. Not wanting to appear rude, the goddess steps over the bench and sits. "Thanks."
+
+"Name's Cassia." The older woman smiles at Bethea, reaching for the dice and dropping them into a small wooden cup. "Haven't seen you around before, first day?"
+
+"Beth. And no, second." Bethea shoots the dark-haired woman a sheepish smile, hoping to disarm any suspicions she might have.
+
+Cassia returns the smile then shakes the cup violently before dumping it out on the table. The dice skitter across the surface, eventually coming to a halt with twenty-six dots facing upwards. Cassia smirks, handing the cup to Beth. "Beat that rookie. Harmonia, get the newbie a drink. Don't just stand there." The guard sitting next to Cassia, a much younger woman with skin as dark as night and eyes to match, nods and gets up, not sparing Bethea so much as a glance.
+
+Bethea ignores her, focusing on collecting the dice and plopping them inside the cup. Shaking it, albeit not quite as forcefully as her opponent, Bethea lets the dice fly. The cubes rattle and clack across the table surface, coming to a stop with only thirteen dots staring skyward.
+
+Cassia smirks, taking a sip from her tankard. "Better luck next time."
+
+Harmonia returns with a new tankard, holding it out for Bethea. "Thanks." Bethea reaches out to take the vessel, but Harmonia suddenly thrusts it forward, launching the wine into the goddess's face. The blonde cries out in surprise. Instinctively, Bethea's hands shoot up to cover her eyes. The guards sitting next to her were clearly expecting this, as each grabs one of her wrists and pulls her arm straight out from her shoulder. Simultaneously, the women push their forearms into the tendon just above Bethea's elbow and force her down against the table. Her skull smacks into the wood with a thud, eliciting a loud groan from the goddess. Cassia's blurry smile through glassy eyes is the last thing Bethea sees before an explosion of pain in the back of her head sends her into the land of dreams.
+
+"Alert the Arbiter. Take her..."
+
+[[Bethea goes limp, unconscious in the guards' grip.|Ch1-Defeated]]
+
+:: Ch1-Leave {"position":"398,1455","size":"100,100"}
+"Erm.. Sorry... I'm, uh, late for guard duty."
+
+Bethea ducks her head and makes for the door, slipping out before anyone can stop her. She emerges into an empty courtyard, an open gate directly opposite her. Walking with purpose, Bethea hurries through the gate without stopping to assess her surroundings. There's a row of dense bushes directly outside the gate. A quick glance over her shoulder reveals no one in pursuit, so, the goddess dips into the bushes and hides. Forcing her breath to remain slow and steady, Bethea waits.
+
+After a few minutes without any sign of a chase, the blonde beauty relaxes. Knowing she's been seen garbed as a guard, Bethea strips off the armor and hides it in the foliage. She slips on the cloak and fastens it to hide the tell-tale dress. It fits well, falling to just above her feet and covering everything else. The goddess flips the hood up to hide her unique locks. Satisfied with her disguise, or as satisfied as she can be given the circumstances, Bethea inspects the area more thoroughly. She's just come from an imposing, walled palace. The wall at her back stands nearly three times her height, although that is dwarfed by the gargantuan palace it protects. With pristine white marble and ornate sculptures on the outside, one wouldn't expect the maze-like dungeon beneath.
+
+Glad to have escaped, and hoping to remain free longer than a handful of minutes, Bethea turns her attention forward and strides down the path purposefully. A loud, bustling city sits but a stone's throw from the palace wall. Fancy white buildings face the palace, impressive in a vacuum but downright shabby compared to the magnificent palace. Fortunately the streets are deserted. The goddess hurries across the short open space between herself and the buildings, then slips into a side alley. Bethea skulks through the deserted alleys, avoiding attention.
+
+Eventually, Bethea stumbles upon a crowded market. There are plenty of guards milling about, but twenty times as many civilians. A hooded figure in the shadows would draw far more attention than a hooded shopper. Steeling herself, she disappears into the throng.
+
+[[Bethea slowly makes her way through the crowds, heart hammering in her chest at her narrow escape.|Ch1-LeaveDungeon]]
+
+:: Ch1-Attack {"position":"393,1305","size":"100,100"}
+<<set $chaos = 0>>\
+Letting out a fierce cry, Bethea suddenly leaps forward. The goddess calls on her blood for strength, feeling it surge into her muscles. She quickly withdraws the club from her belt and fells the nearest woman, whirling and attacking the next. Stunned momentarily, the guards sluggishly rush to engage the goddess, slowed in their efforts by drink. The second guard manages to partially deflect the cudgel, but Bethea immediately follows up with a headbutt. A loud clang reverberates through the barracks as the helmet collides with the guard's skull. She crumples to the ground next to her compatriot with a groan.
+
+Bethea turns to face the remaining guards, eyes flashing. The door flies open, one of the guards from the hallway drawn from her card game by the noise. While partially inebriated, <<print $female_city_name>>'s peacekeepers seem to be well-trained, and they've armed themselves with clubs and whips while Bethea dealt with the first two. The guard who invited Bethea to join them, lips pulled back in a hateful grin, rushes forward. The blonde beauty neatly sidesteps her, bringing the club down at the base of her neck with a crack. The guard crumples. However, three more rush in from the hall to replace her. Bethea curses under her breath.
+
+A leather whip snakes around Bethea's neck, snapping taught. With a growl, she turns and grabs it, yanking hard to pull her assailant off balance. Divine might sings in her veins, the air around Bethea taking on a slight glow. The guard is pulled off balance, falling forward into the goddess's sandaled foot with a sickening crack. Another guard rushes her, only to be felled by a single club strike to the temple.
+
+A club smashes into Bethea shoulder from behind. She stumbles, spinning to face her new attacker. With a ferocious cry, the woman raises the club again. Instinctively, Bethea raises her left arm defensively. She draws on her power in an act of desperation, calling on her aspis, feeling her inner fire beginning to flicker. There's is a flash of light, and then a loud clang. The club smashes into the goddess's shield, the golden circle holding firm despite Althea's ravaging of its surface. Bethea grunts, feeling the force of the strike cascade down her arm. Fighting through the pain, she pulls back and smashes the scarred aspis into the guard's face and knocking her to the floor.
+
+The remaining guards, stunned by Bethea's display, turn and flee towards the dungeon. "Witch! The heretic is a witch!" Bethea sighs, collapsing to her knees in exhaustion. Her shield shimmers once, twice, then disappears, returning to its place atop her sisters' temple. Forcing herself to her feet, Bethea grabs the discarded cloak and staggers out the door and into the evening sun. Knowing the guards will be hot on her heels with reinforcements, Bethea doubles her pace, moving across the abandoned courtyard towards the gate. She slips through, and then ducks into some bushes on the side of the path.
+
+The goddess kneels down, catching her breath. Knowing they'll be searching for someone in a guard's uniform, she strips off the armor and hides it in the foliage. Bethea pulls the cloak around her shoulders and flips the hood over her head to hide her distinctive hair. Making sure no one is looking, she slips out of the bushes.
+
+She's just come from an imposing, walled palace. The wall at her back stands nearly three times her height, although that is dwarfed by the gargantuan palace it protects. With pristine white marble and ornate sculptures on the outside, one wouldn't expect the maze-like dungeon beneath.
+
+Glad to have escaped, and hoping to remain free longer than a handful of minutes, Bethea turns her attention forward and strides down the path purposefully. A loud, bustling city sits but a stone's throw from the palace wall. Fancy white buildings face the palace, impressive in a vacuum but downright shabby compared to the magnificent palace. Fortunately the streets are deserted. The goddess hurries across the short open space between herself and the buildings, then slips into a side alley. Bethea skulks through the deserted alleys, avoiding attention.
+
+Eventually, Bethea stumbles upon a crowded market. There are plenty of guards milling about, but twenty times as many civilians. A hooded figure in the shadows would draw far more attention than a hooded shopper. Steeling herself, she disappears into the throng.
+
+[[Bethea moves carefully, doing her best not to draw attention to herself.|Ch1-LeaveDungeon]]
+
+:: Ch1-Assault {"position":"578,1025","size":"100,100"}
+<<set $ch1_key = true>>\
+Bethea creeps silently over to the table on tiptoe. Careful not to disturb the slumbering guard, the goddess's long, slender fingers wrap slowly around the stem of the candelabra. She picks it up slowly. Carefully. Moving at a glacial pace so as not to make any noise, Bethea raises the heavy ornament above her head. She brings it down swiftly on the redhead's skull, aiming carefully so the base lands flat on the bone. She wants to knock the guard out, not cave her head in. The metal collides with a loud thunk.
+
+The redhead lets out a long groan, her eyes flickering open only to roll up into her head. Bethea checks her pulse, relieved when she feels a weak but study thumping in the woman's neck. Moving quickly, the goddess searches the guard's slumbering form. A ring sporting a single key hangs from her belt. Bethea double-checks the door. There is no lock. Unsure what the key is for, Bethea takes it anyway. She'd hate to leave it behind only to be stopped in her trail by a locked door. The goddess slips it into her top for safekeeping.
+
+Unsure of how much more time she has and finding little else of value, Bethea makes her escape.
+
+
+[[Armed with the key and hidden by her cloak, Bethea slips out of the dungeon.|Ch1-EnterMarket]]
+
+:: Ch1-LeaveDungeon {"position":"470,1600","size":"100,100"}
+Bethea pushes her way through the market crowd. Someone bumps into her back, nearly knocking her over. Whirling, the goddess glowers at the portly woman. Uncowed, the woman makes a crude gesture in Bethea's direction and shoves her aside, ambling on her way. Bethea hugs the cloak tighter about her form to protect her anonymity. She tries to get close to the numerous vendors hawking their wares, but the crowd is too thick, too desperate to finish their last-minute shopping before the red setting sun dips into the darkness below the horizon. Without any money or substantial items to trade, it would achieve little purpose anyway. <<if $ch1_help>>Even if she could find Damasca, there would be no privacy that any meaningful conversation would require. Her best shot is to try and meet the older woman on the road tonight.<<endif>>
+
+The goddess retreats to the fringes of the marketplace and picks her way around the outskirts, careful not to attract too much attention. Without so many bodies pushing and shoving, it's easier to keep the cloak neatly in place around her body. The market is large, but Bethea makes good time by avoiding the thickest portions of the throng. The street opens up while the crowd thins out, the packed bazaar giving way to a quieter residential area. Elegant homes surrounded by pristine green gardens dot the marble pathway. Unsurprisingly, the city's wealthiest live closest to the castle. Bethea ignores the fine sculptures and ornate fountains dotting the neighborhood, remaining focused on finding a way out of the city.
+
+The foot traffic is minimal but not non-existent, mostly mothers and their daughters walking hand in hand on the peaceful summer evening. Most seem to be traveling in Bethea's general direction, away from the market. Bethea briefly considers whether she should follow them or not, but she doesn't really have much of a choice. The street features no intersections or alleys to change direction, so her choices are limited to proceeding forward, heading back to the market, or trying to cut through one of the houses. Seeking to remain unnoticed, Bethea opts for the first option.
+
+The residential area opens up into a temple district. Altars to Bethea's various sisters surround a large amphitheatre. Bethea spies her own, clean and well-kempt like the rest. A massive, multi-story temple supported by thick doric columns dominates the entire plaza, Althea's crest emblazoned on a gigantic copper shield hanging above the doorway.
+
+<img src="Ch1/Althea.svg" alt="Althea's Symbol">
+
+A collection of smaller temples dedicated to various goddesses also surround the amphitheatre behind their respective shrines, although all of them are dwarfed by Althea's. There are various smaller paths and alleyways leading away from the central amphitheatre, offering Bethea plenty of choice to make her escape.
+
+The amphitheatre is a large half-circle cut into the very ground itself. Three sets of carved steps lead down towards a rectangular marble dais, flanked by curved stone benches that line the perimeter of concentric curves converging on the platform. A smattering of children and their mothers are gathered on the lower benches close to the stage. An older woman, basking in her nakedness, sits on a simple wooden chair atop the dais, flanked by two guards. Her voice filters up towards the cloaked goddess.
+
+"...gather to hear... Goddess and her daughters... creation... treachery of..."
+
+Bethea's anger flares. None in this city can possibly know the world's story better than she, and yet she suspects Althea's priestess will give a particularly bastardized version of the tale. Curiosity pressures her to stay and listen, however self-preservation suggests that she continue on her way.
+
+[[Bethea skirts around the amphitheatre and ducks into an alleyway.|Ch1-Ignore]]
+[[Bethea makes her way down the steps and sits in the center of the front row.|Ch1-Listen]]
+
+:: Ch1-Ignore {"position":"226,1794","size":"100,100"}
+<<if $ch1_listen>>The goddess forces her way through the crowd, not caring overly much whether she draws attention to herself or not. Her mind is solely focused on resisting the urge to turn around. One foot in front of the other, Bethea manages to slip down an alley and out of sight of the amphitheatre. The pressure eases in her chest, and she lets out a sigh of relief. While the lies were egregious, Bethea can do more good by escaping to fight for the truth another day.<<else>>Not caring to hear whatever bastardized version of history Althea has fed her puppet priestess, Bethea continues on her way. Making sure to skirt the outer edge of the amphitheatre, the goddess slips into an alley on the far side. She keeps her pace steady yet unhurried to avoid appearing in flight.<<endif>>
+
+The outer wall looms ahead of Bethea, white-grey stone gleaming in the setting sun. The goddess quickens her pace, desperate to finally be free of this maddening city. The wall is formidable, easily four times Bethea's height. The surface is smooth, yet cool to the touch. The heavy blocks, limestone if she had to hazard a guess, don't provide any purchase for climbing. Had she her wings, even a wall such as this would provide no challenge. <<if $chaos >= 2>>Bethea feels her power singing inside her, hardly at peak strength but much stronger than before. She probes, sending droplets of energy along her back. The tattoo shudders in response, as if trying to break free and soar.<<else>>Alas, Althea's trickery keeps them emblazoned upon her back in tattoo form, hardly useful for such a situation. Bethea feels bereft without them, but currently she can only press onward until she can better understand her predicament.<<endif>>
+
+There's a solid wooden door set in the wall along the southern face. It's not overly large, and seems to be designed for a quick ingress or egress for those with enough authority to bypass the main gatehouse. For someone of fugitive status like Bethea, the main gatehouse is too risky. <<if $ch1_key>><<if $ch1_help>>Fortunately, Bethea still has the key given to her by Alexis. The redhead had assured her that it opens any door along the walls.<<else>>Bethea slips her hand into her top and withdraws the key she liberated from the guard. There's no harm in trying it to see if it fits.<<endif>><<else>>Unfortunately for the blonde goddess, the door doesn't budge. The portal seems to be locked up tight, and a quick investigation of the lock reveals that it's highly complex. Were she an expert sneakthief, Bethea might be able to pick it, but it is beyond her modest talents.<<endif>>
+
+Further along the wall, a few hundred paces from the door, the stone structure juts into the sea before coming to a halt. While the water is relatively calm, it is no doubt cold and unforgiving as night is beginning to settle over <<print $female_city_name>>. Swimming out around the wall is certainly a possibility, although it would definitely be unpleasant.
+
+[[Stripping off everything but her undergarments as the fabric would only weigh her down, Bethea dives into the water and swims to freedom.|Ch1-Swim]]
+<<if $ch1_key>>\
+	[[Bethea fits the key into the lock and turns it silently. The lock clicks open, barely audible. |Ch1-Unlock]]
+<<endif>>\
+<<if $chaos >= 2>>\
+	[[Bethea closes her eyes, concentrating on her power. After slipping the cloak from her shoulders and letting it drop to the ground, wings slowly take shape behind her in a flash of light.|Ch1-FlyOver][$chaos -= 2]]
+<<endif>>\
+
+:: Ch1-Listen {"position":"570,1741","size":"100,100"}
+<<set $ch1_listen = true>>\
+The old woman flings her hands out to her sides, flabby arms dangling from the motion. Her voice emerges in a surprisingly steady and forceful tone for someone her age, weaving an enrapturing spell around her mostly young audience.
+
+"Before the land and the sea, before the beasts and the trees, before you and me, there was the Goddess. She had skin of the darkest alabaster, and hair of the brightest black. The Goddess, possessed of a full and pure heart desperate to unleash its love, bore herself five dozen daughters in her own image, each a goddess in her own right. Each is as stunning as her mother, yet distinctly different from each of her sisters. The Goddess laid down the sixty Virtues and sixty Necessities in the form of her offspring. So became the Court of the Goddesses."
+
+Bethea's lips thin at the story's telling, the Virtue of Order screaming with outrage in her heart and the Necessity of Punishment growling in her head. The priestess's animated demonstration is drawing more people. Many women coming from the marketplace stop to listen, just as enthralled as the children.
+
+"The Goddess and her daughters were happy, yet unfulfilled. No Virtue should be unlived, no Necessity should be unnecessary. Heart still brimming with love, the Goddess laid down the firmament and the foliage, the soil and the sea. She laid down the animals of the earth and the creatures of the deep. With special care, the Goddess hand-crafted the sacred winged birds of the clouds. The almighty Goddess created a bird whose wings were fashioned in perfect likeness for each of her daughters, that all of her creations might remember the Court of the Goddesses. And that, little Sophie, is why we don't eat birds."
+
+A small girl sitting in the front row, no older than four, turns an embarrassed shade of pink, scuffing her bare foot along the ground. The elderly priestess chuckles, giving the toddler a jovial wink before continuing.
+
+"But for all of her marvelous creations, the many Virtues and many Necessities still remained unfulfilled. So the Goddess created the ultimate tribute to the glory of her and her daughters: you, and you, and you, and you." The old priestess points her crooked finger randomly throughout the gathering crowd. "Through womankind, the Virtue of each goddess would be lived, the Necessity of each goddess would be realized. So became Life, and so became Woman."
+
+Bethea's ire dims only slightly. While the woman's tale agrees with the truth in slight fashion, the details remain maddeningly inaccurate. The goddess remains composed, watching the elderly woman recount her version of history. Bodies begin to press against Bethea, the amphitheatre filling with listeners.
+
+"The Goddess's heart still contained love, although the genesis of the world had taken a heavy toll. For a time, her creations lived in happiness and harmony throughout <<print $land_name>>. Yet, it is difficult to dedicate ample time to worshipping the Goddesses when one is worried about felling trees and tilling the land. In her mercy, the Goddess created servants for her creations. Strong of body yet weak of mind, she called them Man, for they were but half of Woman. Man was taught to work the land and provide labor for Woman so that she may better worship the glory of her creator and her daughters. However, the Goddess's love was running out, and she could no longer give unconditionally. If Woman were to shirk half the duties of life, then she could only do half the work required to make life. So became the Curse of Man."
+
+The muscle above Bethea's left eye twitches, forehead wrinkling above a wicked frown. She isn't certain how much more of the bastardized tale she can endure. Meanwhile, the children listening to the story seem to be rather confused by the last part, but the older woman makes no effort to explain and hurries on.
+
+"This last act of creation drained the Goddess of her love, and so she forsook her physical beauty to become the sun above, radiating her protection upon her creations. She left her eldest daughter Althea, Goddess of Rule and Sacrifice, Patron of Monarchs, to lead her sisters in her stead. For many years, the Goddess's creations lived at peace. Man, however, with his black and jealous heart, grew resentful of Woman's beauty and grace. He began whispering lies and spreading falsehoods, claiming that Woman was not the only creature made in divine image, but that Man was the image of alleged "gods," mirrors of the divine goddesses which appeared as rough and ungraceful as man. Woman, in her kindness, took pity on Man and indulged him. Some women were even swayed by the untruths and began to worship the false gods of Man's own creation. To this very day, outside our own protective walls, many continue to believe the fiction. The Goddesses, disgusted by Woman's disloyalty, turned their backs on her. Man, empowered, used his physical strength to enslave his mistress. Woman, in despair, called out to her Goddesses, but they remained silent. So became the Millenium of Man."
+
+Bethea folds her arms across her chest. Her blue eyes sweep the crowd, gauging its reaction to the priestess's proclamations. Based on the worshipful expressions, the women believe every word. The crowd is becoming particularly thick, with some even sitting on the dirt between the stairs and the speaker's platform.
+
+"For a thousand years, Man reigned over the land. With his dark and twisted heart, he brutalized and punished Woman, his former overlord. She cried out in anguish for her Goddesses to save her, but they were not so quick to forget her treachery. After a millenium of enduring her suffering, the Goddesses swept back into <<print $land_name>>. Wielding mighty weapons imbued with the light of the sun and impenetrable aspides bearing their personal crests, the vengeful Goddesses drove man from power and restored the rightful order. Althea, mightiest of the mighty, extracted an oath from our beloved queen's great, great, great grandmother: never allow man to overrun <<print $land_name>> again, never allow him to once again overthrow the Goddess's favored, and never again to allow him to escape his place of servitude. In possession of Woman's oath, the goddesses departed once more. So became the present day."
+
+Order whips Bethea into a frenzy, Punishment salivating at the prospect of a righteous battle. Bethea is hard-pressed to keep them at bay. She could turn and flee, escape the desire to expose the truth in lieu of self preservation, or she could yield and expose herself in the name of all that is right.
+
+[[Bethea turns on her heel and melts into the crowd, shaking with the suppressed urge to turn and rail against the priestess.|Ch1-Ignore]]
+[[Setting her shoulders and slipping back the cloak's hood to reveal her shimmering blonde hair, Bethea parts the crowd with a striking rebuke.|Ch1-Confront][$chaos += 5]]
+
+:: Ch1-Hide {"position":"521,1331","size":"100,100"}
+Making up her mind, Bethea slips silently over to the door and pushes it open. She ducks inside and slips it shut, turning the lock with a soft click. Mind racing, she turns to survey the room, looking for her fellow fugitive. The room itself matches the splendor of the rest of the palace. A large canopy bed with blue silk drapes is in one corner, flanked by two stone sculptures. The sculpture on the left features a nude woman wearing nothing but a blindfold, a scale hanging from her outstretched hand. The right sculpture features a soldier in full armor, her spear embedded in the corpse at her feet.
+
+The walls lack the intricate carvings of the palace's halls. Instead, they sport a light red paint gilded with minute gold filigree. There's a door to Bethea's left, perhaps a connection to an adjoining room or a bathing area of some sort. The goddess creeps over, slowly turning the knob. Locked. Undeterred, she continues searching the room. One entire wall is covered by shelves upon shelves of scrolls and books, a miniature library unlike anything Bethea has ever seen before. Goddesses have little need of books, after all. Ignoring the marvel for now, Bethea moves over to check the large archway. It opens onto a small balcony. Unfortunately, that balcony overlooks a steep cliff and the gently undulating sea. It's a long drop, far too far to jump. So much for escaping that way.
+
+Bethea turns back to the room, her eyes catching on the bed. There's... something pressing against the sheet from beneath it, forming a noticeable lump. Curious, Bethea kneels down and lifts the fabric. Her eyes lock with those of a small boy, no older than six or seven. His saucer-sized orbs are a verdant green. A mop of blazing red hair erupts from pale, freckled skin. Bethea's mouth hangs open. She isn't sure what she was expecting, but this certainly wasn't it. In <<print $female_city_name>> of all places.
+
+The adjoining door creaks open, and Bethea scrambles to her feet. Her gaze meets that of a woman wearing nothing but a towel wrapped around her torso. The woman's eyes travel back and forth from Bethea to the young boy, skin growing whiter and whiter. Bethea notes her bright red hair and terrified green eyes. The woman's voice emerges on a croaking whisper, her arms clutched tightly to the towel. "Please... I can..."
+
+A knock hammers against the door, making everyone leap out of their skin. "Open up! Is anyone in there?"
+
+Bethea looks at the door, then at the woman. Clearly the boy's mother, she mouths "please" to the goddess, eyes beseeching. The guards must be after the boy. While Bethea, as the Goddess of Order, despises <<print $female_city_name>>'s hatred for the male sex, causing a ruckus and sacrificing the boy to the guards might be her best chance at getting out. That would be a gargantuan compromise of her principles for her to make, though...
+
+[[Bethea shouts for the guards, hoping to use the ensuing mayhem to slip away.|Ch1-Betray][$chaos += 2]]
+[[Nodding, Bethea holds her fingers to her lips and remains perfectly still, waiting for the guards to move on.|Ch1-Help]]
+
+:: Ch1-Help {"position":"575,1452","size":"100,100"}
+<<set $ch1_key = true>>\
+<<set $ch1_help = true>>\
+"If anyone is in there, open this door now!"
+
+The boy lets out a soft whimper. Bethea swiftly presses a finger to his lips to keep him from giving them away.
+
+"Go get the master key from the Captain. I'll make sure no one comes out."
+
+Bethea, mind racing, turns and looks toward the window, but the redheaded woman catches her eye. She shakes her head slightly, holding up a hand in caution. She pads stealthily over to the bookshelf on naked feet, carefully reaching out towards it. Her slender hand rests gently upon a thick red volume, easing it outwards. Bethea's brows bunch together in confusion. This is no time for reading! Much to her surprise, the bookshelf slides slowly back across the floor, making a low scraping sound.
+
+"Hey! Is someone in there!?"
+
+More pounding sounds at the door. If possible, the redheaded woman's skin is even paler now. She motions frantically at Bethea to follow her, stepping inside the small tunnel revealed by the moving bookshelf after replacing the book to its proper position. Taking the trembling boy by the hand, Bethea hurries over to his mother and ducks inside the passageway. The woman scoops the boy up into her arms and holds him tightly against her chest, moisture pooling at the corners of her eyes. Wiping it away, she pulls down on a lever set in the wall. The shelf moves back into place with more noise, sealing the trio in darkness. Bethea feels the woman's hand snag her own, yanking her forward and leading the goddess through the pitch-black tunnel.
+
+Not having much of a choice, the blonde beauty follows the woman through the twisting and turning passageways. The path descends at a slight slope, only leveling out briefly to reverse direction. They walk so far that Bethea is certain they've descended into the depths of the earth, although walking slowly in absolute darkness tends to distort one's sense of time. Eventually, Bethea feels her guide stop. Surprised, she bumps into the woman's back, but fortunately without enough force to knock her over.
+
+Bethea hears her partner in crime fumbling around for something, then a scraping sound. There's a flickering of light, the redheaded woman's face illuminated by a dancing match. Cupping the flame with her hand, she walks over and lights two lanterns hanging from hooks on the wall. The goddess blinks rapidly, eyes fighting to become accustomed to the sudden influx of light. The room is tiny. Bethea isn't sure she could lay down completely flat in either direction. Its walls are composed of tightly packed dirt. Does the passageway lead beneath the castle entirely? In addition to the small opening they just emerged from, there's a barred wooden door across the room. A small, crude bed sits in the corner, perfectly sized for the young boy clinging to his mother. A table and boy-sized stool sit next to it. The ginger boy stares unabashedly at Bethea as his mother sets him gently on the edge of the bed. She dashes her forearm across her eyes.
+
+"We should be able to talk here. I..." The woman pauses for a long while, eyes locked on her child. "I don't know how to thank you."
+
+Bethea shrugs noncommittally, leaning against the wall.
+
+"It was the right thing to do."
+
+The red-haired woman raises an eyebrow.
+
+"Bold of you to say so. You should be careful of speaking so freely."
+
+After a moment's hesitation, the woman steps forward, hand outstretched.
+
+"Alexis"
+
+Bethea, with double the hesitation, grasps it firmly.
+
+"Be... Beth."
+
+Alexis squints her eyes, focusing on Bethea's hair. "Goddesses above... you're the heretic." Momentary panic flares in her verdant green eyes, before her gaze shoots to her silent son. "I guess that adds some context, doesn't it?" Bethea nods, keeping her expression purposefully neutral.
+
+Alexis is still for a moment, before snapping into action. She reaches beneath the bed and withdraws a small wooden trunk. Popping it open, she withdraws a simple cotton dress, a pair of leather sandals, and a dark cloak. The redhead drops the towel and slips on the dress before sitting to lace up the sandals. She tosses the cloak in Bethea's direction. "I assume you'll want to get out of the city. Based on how you're dressed, there's a guard somewhere who isn't dressed. It's only a matter of time before that disguise becomes a hindrance." The logic is sound, so Bethea acquiesces. She quickly strips out of the armor and slips into the cloak, pulling it closed over top of the dress and slipping the hood up over her distinctive hair. The cloak is a nearly perfect fit, hanging down to just above her toes.
+
+"Here, take this." Alexis gently tosses a small brass key towards the goddess. "It opens all of the doors along the outer wall. It'll be easier to get out that way than the main gate." Bethea looks over the key before slipping it into her dress, watching as the redhead turns to her son and kneels by the bed. She runs a loving hand through his hair. "I know you hate it in here, honey, but you can't go running off like that. It's not safe." She presses a kiss to his forehead, fighting back more tears. "Mommy loves you, and she couldn't handle it if you got taken away. Can you stay here, for me?" The boy nods solemnly, glancing between Bethea and his mother. Alexis smiles, patting his head before rising and facing Bethea. "Follow me."
+
+Alexis leads Bethea through the barred door, closing it behind her. The goddess can hear the bar sliding back into place. Apparently Alexis has at least drilled that into her son's head. "Are you sure he's not going to sneak off again?"
+
+Alexis shoots Bethea a sad smile over her shoulder. "Kassander is a smart boy, he understands the danger. He just gets... lonely at times." Alexis swallows briefly, turning her head forwards once more as she leads Bethea through the tunnel. "He'll be fine until I can visit him tonight. Right now it's critical that I not be conspicuously missing as the guards search for a red-headed boy in my chambers." Bethea can't argue with that.
+
+The pair walks through the darkness, Alexis leading Bethea by the hand as before. "I'll let you out of the tunnel, but be ready: I'm going to close it behind you. You're going to exit into a cave along the shore. Walk straight ahead and turn right, then left. That will get you out onto the beach, beneath the wall." Bethea nods, demonstrating her understanding out of habit without considering that Alexis can't see it. "Follow the beach wall south until you hit the fisherman's wharf. That key unlocks the door, and any door along the walls for that matter, but make sure no one is watching. Once inside, head for the market just across the street."
+
+"Won't there be guards watching the market for thieves?"
+
+"Yes, you must remain inconspicuous, but your best option is to find a rug vendor, goes by Damasca. She's ancient, but she knows about Kassander. She can get you out of the city. If something goes wrong, get out of the city however you can. Damasca will drive her wagon south tonight, but she doesn't move quickly. You should be able to catch up with her even while staying out of sight."
+
+"If I get out of the city, what need do I have for this vendor?"
+
+"She can get you food and clothes, and she has connections in the shipping industry. You won't be safe until you're off the island. Inform her that I will cover double the expenses that you incur." This journey doesn't feel nearly as long as the first, although Bethea doesn't have a particularly reliable way to measure. The redhead comes to a stop, running her hand along the wall. Her fingers catch on a small indentation, and she slips her hand inside. After a soft click, the stone in front of them begins to move with a low rumble, sliding glacially along the ground to form a small opening. Bethea can see a cave on the other side illuminated by a small amount of diffuse light. The walls are of natural rock unlike the smoother, man-made walls of the tunnel.
+
+The goddess steps out, turning to clasp Alexis's hand firmly. "Thank you, you've been a great help." The beleaguered mother merely smiles, squeezing Bethea's hand.
+
+"No amount of coin can ever repay my debt to you. If you ever need anything, anything, send word."
+
+"Thank you, Alexis."
+
+With a parting smile, the redhead presses into the wall again, and the rock begins to slide back into place. Not wanting to waste time, Bethea hurries forward. She processes the directions in her head, committing them to memory. Just as predicted, after two twists the cave opens up onto a serene, sandy beach. The sun has dipped down towards the sea, sending a fiery orange ray across the water towards <<print $female_city_name>>. Bethea moves swiftly along the beach, finding the door with no trouble. True to her word, Alexis's key opens the door easily. Hinges rusty from the continual battering of the ocean air, the wooden portal creaks open. Bethea double checks to ensure her cloak is still in place before slipping inside. She returns the key to its place inside her dress.
+
+The wharf itself is nearly deserted, only a few grizzled fisherwomen working the impressive fleet of boats. The crowded marketplace would be nearly impossible to miss, loud and undulating as shoppers clambered to make their purchases before the sun's disappearance signaled the disappearance of the vendors. Bethea melts into the crowd quickly, pushing her way through in search of Damasca.
+
+[[The goddess slips through the crowd, careful to avoid any extra attention.|Ch1-LeaveDungeon]]
+
+:: Ch1-Betray {"position":"746,1453","size":"100,100"}
+<<set $true_path = false>>\
+<<set $ch1_betray = true>>\
+Forcing her conscience to the back of her mind, Bethea makes her move.
+
+"Help! He's in here! She's locked the door!"
+
+The boy's mother lets out a pained screech, flying to her son and wrapping her arms around him. Bethea throws herself to the ground, clutching the side of her helmet as if she's been struck. There is a loud thump against the door, and shouting on the other side. A second thump, and then a third, before the wood gives way in a shower of splinters. A quintet of guards bursts into the room, swarming all over the place. One helps Bethea to her feet, but all of them only have eyes for the young boy and his mother.
+
+Tuning out the woman's sobbing and screaming along with the boy's cries, not to mention her own berating conscience, Bethea inches away from the group, turning and slipping out the door unnoticed as soon as possible.
+
+[[Once in the hall, Bethea ducks out the window and clambers down the trellis while no one is watching.|Ch1-Garden]]
+
+:: Ch1-Swim {"position":"139,2328","size":"100,100"}
+<<set $chaos = 0>>\
+Bethea's initial estimate was correct: the water is freezing cold. It nearly sends her into shock as she dives in, although life on an island with her sisters has made Bethea into an expert swimmer. Keeping her mind focused on the task and ignoring the discomfort, the goddess slices through the water. She gradually rises to the surface, kicking her legs and paddling with her arms to propel herself forward. It's about a javelin's throw from the shore to the wall, ample time for defenders to make pincushions out of any attackers attempting to swim into the city.
+
+Bethea briefly contemplates clinging to the wall for a break, the water's icy temperature would no doubt sap her energy more quickly than she could recover it. She pushes forward around the wall, lungs beginning to burn. Stroke, stroke, stroke, stroke. The goddess doesn't even bother looking up to gauge the distance to the shore. No matter how close it is, it'd still be disheartening. She swims for a few more minutes, exhaustion creeping in.
+
+Eventually her hands scrape up against the sandy sea floor. Relief surges through Bethea, and she scrambles to her feet. Blonde hair matted to her skull in thick clumps, the goddess wades to shore and collapses on her hands and knees. Loud gasps tumble from her lips as she sucks in air. Wary of being found, Bethea forces herself back to her feet and into motion, looking around. A short expanse of open grass yields to a dense forest of leafy green trees. The woods stand along the coast, separated from the lapping water only by a thin strip of sandy beach. A well-worn cobblestone road runs parallel to the shore on the other side of the forest, traveling away from the city towards the interior of the island. <<if $ch1_help>>That must be the road Alexis said Damasca would take.<<endif>> The terrain to the west of the road is hilly and uneven with little cover to protect one from the weather or from observation.
+
+Stumbling a bit, undergarments soaking wet and plastered to her goose-bump pebbled skin, Bethea hurries over to the woods and slips into the shadows. She does her best to stay close to the road without being visible. Carefully, the goddess starts to put distance between her and <<print $female_city_name>>.
+
+[[Beth creeps into the forest cold, wet, and free.|Ch1-Damasca]]
+
+:: Ch1-Unlock {"position":"523,2321","size":"100,100"}
+Bethea slips through the door swiftly. She eases it carefully shut, then uses the key to re-engage the lock. There is no point in making it obvious how she'd escaped.
+
+Outside <<print $female_city_name>>, the sea sprawls out to Bethea's left. The shoreline extends southeast from the wall. A short expanse of open grass yields to a dense forest of leafy green trees. The woods stand along the coast, separated from the lapping water only by a thin strip of sandy beach. A well-worn cobblestone road runs parallel to the shore on the other side of the forest, traveling away from the city towards the interior of the island. <<if $ch1_help>>That must be the road Alexis said Damasca would take.<<endif>> The terrain to the west of the road is hilly and uneven with little cover to protect one from the weather or from observation.
+
+The blonde goddess hurries across the open expanse to the forest, only relaxing once she's safely embraced by the shadowy darkness. The trees offer her best chance to avoid detection, Bethea carefully picks her way through the woods. She does her best to avoid stepping on branches or leaves to remain quiet. Hiding won't do her any good if she tramps around like an elephant. <<if $ch1_help>>Bethea keeps as close to the road as she dared, searching for Damasca.<<else>>Bethea tries not to stray too far from the road, thinking it best to keep an eye out for other travelers.<<endif>>
+
+[["Pulling her cloak closer around her body to ward off the encroaching chill, Bethea slips into the darkness to put some distance between her and " + $female_city_name + "."|Ch1-Damasca]]
+
+:: Ch1-FlyOver {"position":"312,2343","size":"100,100"}
+Bethea's wings flex and stretch, flapping experimentally a handful of times. It feels incredible after their absence. With a slight smile playing at the corners of her lips, the goddess leaps into the air in an explosion of long, soft white feathers. She rockets up over the wall in seconds, wings pumping furiously. Bethea can't help but let an excited giggle leak out of her lips. Flying is exhilarating!
+
+Were it within her power, Bethea would fly and fly and fly until the end of <<print $land_name>>, and then fly back again. Unfortunately, she can already feel her limited strength beginning to wane. Her wings push and tug against the exhaustion reeling them back into tattoo form. Begrudgingly, Bethea uses her last few moments of flight to survey the land below. <<print $female_city_name>> sits at the tip of a short peninsula. It abuts the sea to the north and west, with the land marching away to the southeast. She knows <<print $female_city_name>> dominates a large island, although she's not high enough to see the coast in all directions. A well-used cobblestone road snakes its way south from the city. A dense forest of leafy green trees follows it along the western coast, providing a buffer against the salty sea air. <<if $ch1_help>>There's no doubt that's where Alexis intended Bethea to catch up to Damasca.<<endif>>
+
+Having a rudimentary map tucked away in her mind, Bethea drops into a dive and plummets towards the forest. She rockets downwards towards the earth in an exhilarating rush, pulling up at the very last second before alighting gracefully on the ground. Her chest heaves from the exertion of flying, the act feeling so much more cumbersome than it had before. No doubt Althea's doing. After a moment's rest, the blonde goddess slips into the forest. She'd be far too exposed on the road, and the forest would prove useful in concealing her from anyone traveling along the along the cobblestones. <<if $ch1_help>>Bethea makes sure to keep the road within her vision so she can look for the elderly rug merchant.<<endif>>
+
+[["Chilled in her meager garments, Bethea slips into the darkness to put some distance between her and " + $female_city_name + "."|Ch1-Damasca]]
+
+:: Ch1-End {"position":"486,2946","size":"100,100"}
+<<set $ch1_end_chaos = $chaos>>\
+<<set $ch1_end = true>>\
+!Chapter 1: Escape from <<print $female_city_name>> - Complete!
+
+<img class="map" src="Ch1/Ch1End.png"/>
+
+-----
+
+Bethea has escaped Althea's stronghold for now, but her journey is just beginning. Forces at work in the minds of the people aim to enslave heaven itself, but Bethea won't be able to stop them while chained and helpless.
+
+Who is Damasca, and what of the powers of the skeletal hand? The goddess of Order and Punishment will need to brave vicious goblins and the brutal mines of <<print $female_city_name>> to unravel the tangled threads of fate, but danger lurks just out of sight...
+
+[[Return to the Chapter Select|Chapter Select]]
+
+:: Ch1-Lose {"position":"267,1355","size":"100,100"}
+Letting out a fierce cry, Bethea suddenly leaps forward. The goddess calls on her blood for strength, feeling it surge into her muscles. She quickly withdraws the club from her belt and fells the nearest woman, whirling and attacking the next. Stunned momentarily, the guards sluggishly rush to engage the goddess, slowed in their efforts by drink. The second guard manages to partially deflect the cudgel, but Bethea immediately follows up with a headbutt. A loud clang reverberates through the barracks as the helmet collides with the guard's skull. She crumples to the ground next to her compatriot with a groan.
+
+Bethea turns to face the remaining guards, eyes flashing. The door flies open, one of the guards from the hallway drawn from her card game by the noise. While partially inebriated, <<print $female_city_name>>'s peacekeepers seem to be well-trained, and they've armed themselves with clubs and whips while Bethea dealt with the first two. The guard who invited Bethea to join them, lips pulled back in a hateful grin, rushes forward. The blonde beauty neatly sidesteps her, bringing the club down at the base of her neck with a crack. The guard crumples. However, three more rush in from the hall to replace her. Bethea curses under her breath.
+
+A leather whip snakes around Bethea's neck, snapping taught. With a growl, she turns and grabs it, yanking hard to pull her assailant off balance. Her strength is waning, though, even the chaos of her brazen attack not fueling her inner fire enough. Instead, Bethea herself is yanked forward, stumbling over her own feet in surprise. The breathe wooshes from her lungs as one of the guards connects a vicious knee to her midsection. Sensing the escaped prisoner's weakness, the remaining guards dogpile her, sending her to the ground with a loud "ooomph."
+
+Bethea tries to fight back, pushing, kicking, shoving, and biting at the guards as they attempt to get her under control. She's mostly unsuccessful, the women swarming her and laying on her limbs to take away her leverage. It's a scene of utter madness, the guards and Bethea shouting and cursing angrily over the thumping and banging of the struggle.
+
+"Call the Arbiter!"
+
+"Let me... go!"
+
+"Get the cuffs!"
+
+"Hold her down!"
+
+One of the guards puts her foot between Bethea's shoulder blades and pulls up hard on the whip still coiled firmly about her neck. Her blonde head is pulled up, turning red as the blood and airflow is cut off. She groans and wheezes, the fight draining from her. The rattling of chains strikes dread in her heart, but she's powerless to resist.
+
+Moving efficiently with practiced expertise, the army of guards quickly restrains the gasping goddess. Her legs are forced together, thighs shackled together with a short chain connecting them. Her supple arms are pulled behind her back, wrists crossed between her shoulder blades. The guards produce a cross cuff, two metal circles attached at a right angle by a hinge on one side and a lock on the other. Once the lock is opened, the circles open so that the guards can shut the lengths of steel around Bethea's crossed wrists. The contraption is then locked shut, enforcing the uncomfortable position. A set of shackles is locked around her forearms, just past the elbow, for added security.
+
+With the goddess restrained, the guards haul her to her feet. More and more guards continue pouring in, drawn by the commotion. They gawk at the bound blonde beauty, whispering amongst themselves. The one holding the whip pulls on it like a leash, causing Bethea to stumble forward. With her thighs hobbled by chains, the goddess struggles to keep up with her captor. Smirking at her prisoner's lack of grace, the guard hands the whip off to another.
+
+"Take the heretic to the Arbiter. Then make sure she won't escape again."
+
+[[Overpowered and restrained once more, the hobbled goddess is frogmarched back the way she came.|Ch1-Defeated]]
+
+:: Ch1-Confront {"position":"634,1879","size":"100,100"}
+"How easily you remember the bird's wing in all of its shapes, be it the mighty eagle, the vengeful swan, or the brooding raven." Bethea's voice stuns the crowd into shocked silence, the previous murmuring and chattering dying a quick death. "But you forget that for every hen, there is a cock. For every tiercel, there is a formel. By your own admission, every woman needs man to beget offspring, and every hen needs a cock to lay fertile eggs. So too do you forget the Court of the Gods."
+
+Sensing the impending trouble, and not wishing to be associated with whosoever would be foolish enough to challenge the priestess so publicly, the crowd shuffles away from Bethea. She stands alone, an island amidst a sea of souls. Her eyes flash blue fire, locked on the priestess's elderly, naked form. The older woman frowns sharply, climbing to her feet on creaking, arthritic knees. Silence descends like the darkness of night, smothering the crowd. They look between the women, anticipating the priestess's inevitably violent response.
+
+The woman's wrinkled, cracked skin compresses about her eyes as she squints at Bethea, taking the measure of her opponent. "You dare blaspheme Althea and her sisters here, in Althea's sacred city?" She steps down from the dais, tottering towards the goddess weakly. Her eyes are clearly not as sharp as her ears, as she continues to squint and peer at Bethea as if unseeing.
+
+Bethea scoffs, spitting on the ground. "Althea's sacred city, where she poisons your minds with lies and wages a war of hatred and vengeance on the innocent."
+
+The ancient acolyte's face twists into a vile visage of pure rage. She stops a mere handsbreadth from Bethea. Her eyes take in the glimmering blonde hair of the blasphemer and her brilliant blue eyes. The priestess's face takes on a mottled purple hue of outrage. "You! How have you come before us, heretic!? How have you escaped from the chains of righteousness?"
+
+The goddess responds with a wolfish grin, looking down on the old woman with contempt. She bends down until she can smell her target's fetid breath. "Your chains are no more righteous than your story is truthful." Bethea probably shouldn't goad the poor priestess too much, she might have a conniption, or an aneurysm. Her wizened lips curl up in disdain, taking a few steps back. Her words emerge not in her steady, practiced speaking voice, but in the shrill screeching of a crone.
+
+"Guards! Guards!"
+
+The crowd erupts into pandemonium at the escalation, drowning out whatever orders the elderly priestess attempts to give. The guards from the dais immediately rush forward at their matron's behest. Whirling, Bethea sees a handful of guards shoving their way through the crowd from every direction. She could surrender, or stand her ground. Fleeing on foot isn't much of an option.
+
+[[Bethea does not resist as the guards approach.|Ch1-Surrender]]
+[[Bethea drops into a fighting stance, eyeing the approaching guards warily.|Ch1-FightBack][$chaos -= 1]]
+
+:: Ch1-Surrender {"position":"724,2019","size":"100,100"}
+<<set $true_path = false>>\
+As the guards approach, Bethea raises her hands in a show of peace. Despite her anger at the priestess for her falsehoods, Bethea thinks it easier to influence the minds of the people as a peaceful protester than as a violent interloper. The guards are not so accommodating, crashing into the goddess and driving her to the ground face-first. The two guards from the dais, a bruising amazon with raven hair and smaller redhead, straddle Bethea's prone form and withdraw coils of rope from their belts. The dark-haired giant sits on Bethea's lower back, driving the breath from her lungs with the combination of her weight and the knees she jams into the goddess's ribs.
+
+Bethea's arms are quickly pulled behind her back. No mercy is shown as the rope is wrapped tightly above her touching elbows five times. The rope is cinched and knotted off to form a strict two-column tie that welds the goddess's arms together behind her back and pulls her shoulders back. Her breasts are also thrust into the stone floor of the amphitheatre by the tension. Meanwhile, the second guard is straddling Bethea's thighs and binding her legs. Slim ankles crossed, the rope is wrapped vertically and horizontally to keep them there. Before knotting the tie off, the guard incorporates some rope around Bethea's arches to keep her feet pinned together and useless.
+
+Fortunately, each guard seems to carry a very limited amount of rope. Unfortunately, a veritable army of guards now surrounds the bound goddess. Copious coils of cord  abound as Bethea is trussed up tighter than the sturdiest bridge. Her wrists are brought together behind her back and bound tightly to match her elbows. The guards are thorough if nothing else, using a third rope to bind her forearms in the same fashion for added security. Rope is run from her elbows, around her shoulders, and behind her neck. Shoulders yolked, Bethea's bust is pushed out further and her arms become nearly immovable. The guards, however, are seemingly not satisfied. The blonde beauty's wrists are pushed up to the middle of her back and anchored in place by a savagely tight waist rope. Her arms now stick up awkwardly behind her shoulders in a brutal chicken-wing tie.
+
+Bethea's legs receive similar treatment. Multiple guards work together to nearly cocoon her lower limbs in flesh-dimpling bands of rope, cinched and knotted with biting tightness. The goddess is hauled to her feet, panting and disheveled from the abuse. She can barely move an inch, able to bend at the waist only slightly and crane her neck. To ensure she isn't carrying any weapons, the guards strip Bethea to her undergarments with sharp knives. Much of their ropework extends beyond the grounds of mere submission into purposeful humiliation. Ropes are looped tightly above and below her breasts in a crushing figure-eight pattern that squeezes and balloons her chest outward. A second waist rope is adorned by a savagely tight crotch rope that digs uncomfortably between the goddess's legs and anchors to her bound wrists. Were Bethea fighting back, the whole process would have been much more difficult. With their sheer numbers, though, <<print $female_city_name>>'s guards probably could have handled it just the same.
+
+The priestess steps in front of Bethea, admiring the guards' handiwork with gleeful satisfaction until her eyes come to the goddess's face. "Why is she not gagged? Heresy cannot be allowed to spew from her foul mouth!" Parts of the crowd agree loudly, while another faction rumbles their uncertainty as to the whole situation. The largest guard, the amazonian brunette, steps forward and retrieves a wadded up cloth from her belt. "Open your mouth, prisoner."
+
+Mulishly, Bethea clenches her teeth shut and shakes her head. It is a matter of principle at this point. Annoyed, the guard steps forward and presses her fingers into the hinge of the blonde's jaw. While far from comfortable, Bethea is more than tough enough to resist. Swearing under her breath, the the dark-haired woman nods to a second guard. Dutifully, she steps forward and takes the cloth. It is positioned in front of Bethea's pursed lips with one hand, and her nose is pinched shut with the other. Unimpressed, Bethea breathes through her clenched teeth.
+
+The crowd and the elderly woman begin to grow agitated at the guards' failure. Growling in frustration, the leader changes tactics. She uses her large hands to grope and maul Bethea's bound breasts. Her fingers dig in, pulling and kneading at the sensitive flesh. Bethea grunts and groans through her locked lips, fire blazing from her eyes and searing the woman's soul. "Fhhccckk oou." Unphased, the guard starts to slap Bethea's breasts, stomach, thighs, and buttocks until the skin glows a pleading pink. A third grabs her nipples through her thin top and twists cruelly. Bethea groans in frustration. Clearly the guards are well-trained in coercing recalcitrant prisoners that good behavior isn't so bad. After a few minutes of enduring the abuse at the hands of her captors, Bethea submits and opens her mouth. The rag is shoved deep inside, followed quickly by a second, a third, and part of a fourth. A fifth is tied between her lips to seal the massive wad of fabric inside, a sixth is tied tightly over top of her spread lips, and a ridiculously unnecessary seventh is tied over her mouth and nose to render Bethea nearly silent. "...nnnnnn..." Her jaw is already aching, the massive mound of cloth very nearly dislocating it.
+
+Satisfied, the Priestess fixes her guards with an imperious glare. "Take her to the Arbiter. Inform her that I expect this heretic to be executed tonight." The crowd murmurs louder, even some of the loudest proponents of Bethea's subjugation and subsequent humiliation unsettled by the rush to judgement. Simply following orders, the guards box in the tightly trussed goddess and force her to hop between them back towards the castle. Bethea squirms and pushes against their touch, shouting quietly into the large gag. "guhth ofhmf muh!" With her ankles crossed and feet bound together, each tiny and ineffective hop sends discomfort shooting through her body. Each movement causes the tight crotch rope to saw against her. Perhaps she should have fought back after all...
+
+[[Bound, Bethea is dragged back to the castle for judgement.|Ch1-Judged]]
+
+:: Ch1-FightBack {"position":"469,1980","size":"100,100"}
+The priestess's personal guards reach her first given the clearing the crowd formed during the confrontation. The larger of the two, a true amazon with sun-kissed olive skin and night-kissed raven hair, makes a grab for Bethea's wrists. Moving with the speed of a viper, the goddess grabs the outstretched wrist and spins to her right. The quick attack pulls the guard off balance and exposes her back to Bethea. The blonde beauty takes advantage, slamming her left elbow into the giant's kidney as she releases her wrist. The momentum of Bethea's spin carries her through the strike and in a full circle. Her right elbow slams into the hollow of the guard's neck just below her left ear with a loud crack. A long groan accompanies the unconscious brunette to the amphitheatre floor.
+
+The second guard slams into Bethea just as she turns, barreling into the goddess's midriff with her shoulder. Bethea grunts, falling to her back and rolling backwards. Her foot plants in the guard's stomach and pushes. Her assailant tumbles over and lands on her back, Bethea rolling gracefully to straddle her torso. Growling, the guard fires a sloppy punch towards Bethea's jaw. The goddess easily parries the blow and returns with an expert punch of her own. Her fist crashes into the woman's jaw, snapping it and her eyelids decidedly closed.
+
+Bethea scrambles to her feet. The words of the crowd meet her ears on a whisper and a shout.
+
+"Heretic..."
+
+"...not natural..."
+
+"...gods... real..."
+
+"...witch!"
+
+The confusion is certainly feeding Bethea's power, energy coursing through her veins like she hasn't felt since her sham trial. Her body feels invigorated, invincible. Her wings beg to be released from their prison on her back. More guards shove through the crowd, trying to reach their target. Bethea feels more than enough strength to take on the world, although she could easily escape to the air with her wings.
+
+[[Bethea calls forth a little of her power, using her strength to attack the remaining guards.|Ch1-FightRun][$chaos -= 1]]
+[[With a flash of light, Bethea lets her wings stretch out behind her. She shoots into the air, making her escape upon the wind.|Ch1-FlyAway][$chaos -= 2]]
+
+:: Ch1-FightRun {"position":"395,2117","size":"100,100"}
+The next guard reaches Bethea with her cudgel raised and a loud cry. The goddess ducks under the attack easily. She sticks her leg out and spins, sweeping the guard's legs out from under her. The woman's momentum sends her tumbling face-first to the ground. Someone leaps on Bethea's back from behind, attempting to encircle her neck with their arms. Using her opponent's momentum once again, the goddess drops quickly and yanks on her attacker's arm to send her tumbling atop of the first guard with a thud.
+
+A whoosh of air is Bethea's only warning as a spearhead slices through the air towards her. She twirls backwards, a lock of whipping blonde hair falling prey to the razor sharp edge of the weapon. Her blue eyes lock with the honey brown eyes of the attacking guard. There's little mercy to be found in them, just steely determination. Bethea turns her torso to avoid the second thrust, wrapping her hand around the shaft. She yanks forward to pull the guard off balance. Moving with the grace of a dancer, the goddess maintains her grip on the spear as she darts behind the guard. The weapon's wooden shaft is pulled up against the woman's throat, hands still clutching it. Her left arm is easily freed by releasing her grip, but the right is pinned in place once Bethea grabs the butt of the spear and pulls backward. The guard's back is bowed and she gasps for breath from the pressure put on her neck. Her other hand quickly returns to pull the polearm away, but Bethea is far too strong for her to make any progress.
+
+Bethea steps backwards slowly, inching her way towards the dais as the remaining guards circle her. The crowd parts as if she were a leper, lacking the courage to challenge the woman who so brutally dispatched four guards and counting. Anger sparks from the soldiers' postures, but they don't dare rush her while she holds one of their own hostage. Buying time, the goddess pulls her captive up on the dais and continues to back slowly towards the alleyways on the opposite side of the amphitheatre from the bustling market. The priestess, meanwhile, has retreated to the safety of the crowd, hurling orders and insults at her thugs. "Get her, you idiots, there's only one of her and seven of you. Can you not count?"
+To their credit, the guards seem to understand the true threat Bethea poses, keeping their focus solely on her and ignoring the old bag's tirade.
+
+Having successfully maneuvered herself to the steps, Bethea begins ascending to the street slowly, goading the priestess into serving as a more effective distraction. "Based on the skills of your goons, Althea herself must train them!" Bethea sees more than one eye muscle twitch at the blasphemous insult, but the well-trained guards remained steadfast. The elderly acolyte, however, does not.
+
+"Shut that bitch up!" The woman's screech is perhaps the most painful weapon present, nearly possessing the ability to make one's ears bleed. She could notify the whole city if she needed too. Bethea is now only a few steps away from the nearest alley, and she maneuvers towards it still keeping her hostage under complete control with the spear.
+
+"What is the purpose of all this blasted noise!?" The newcomer's voice booms like a thunderclap, silencing the jeering crowd and even the priestess herself. It even surprises the guards, causing their focus to momentarily falter. Bethea exploits their failing to the fullest. The goddess brings her foot up to her chest and gives a mighty thrusting kick to her captive's back. Simultaneously, she pulls back the spear and hurls it. She aims slightly above the soldiers' heads, high enough to miss but low enough to make them duck. Bethea's hostage tumbles to the ground at their feet, impeding their progress to give her a head start in sprinting down the alley.
+
+Running as fast as her divine feet will carry her, Bethea flies through the narrow corridors, ducking, twisting, and turning at every intersection she can find to throw her pursuers off the trail. Gradually their voices become quieter and quieter, their footfalls weaker and weaker as the goddess evades them amongst the buildings. Soon Bethea has lost them entirely, hoping that means they have lost her as well. She slows to a quick walk to preserve energy and makes a beeline for the imposing outer wall.
+
+The wall looms ahead of Bethea, white-grey stone gleaming in the setting sun. The goddess quickens her pace like prey keen to outrun the hunter. The wall is formidable, easily four times Bethea's height. The surface is smooth, yet cool to the touch. The heavy blocks, limestone if she had to hazard a guess, don't provide any purchase for climbing. Had she her wings, even a wall such as this would provide no challenge. Bethea feels her power singing inside her, hardly at peak strength but much stronger than before. Even the brawl has done little too diminish it surge. She probes, sending droplets of energy along her back. The tattoo shudders in response, as if trying to break free and soar.
+
+There's a solid wooden door set in the wall along the southern face. It's not overly large, and seems to be designed for a quick ingress or egress for those with enough authority to bypass the main gatehouse. For someone of fugitive status like Bethea, the main gatehouse is too risky. <<if $ch1_key>><<if $ch1_help>>Fortunately, Bethea still has the key given to her by Alexis. The redhead had assured her that it opens any door along the walls.<<else>>Bethea slips her hand into her top and withdraws the key she liberated from the guard. There's no harm in trying it to see if it fits.<<endif>><<else>>Unfortunately for the blonde goddess, the door doesn't budge. The portal seems to be locked up tight, and a quick investigation of the lock reveals that it's highly complex. Were she an expert sneakthief, Bethea might be able to pick it, but it is beyond her modest talents.<<endif>>
+
+Further along the wall, a few hundred paces from the door, the stone structure juts into the sea before coming to a halt. While the water is relatively calm, it is no doubt cold and unforgiving as night is beginning to settle over <<print $female_city_name>>. Swimming out around the wall is certainly a possibility, although it would definitely be unpleasant.
+
+[[Stripping off everything but her undergarments as the fabric would only weigh her down, Bethea dives into the water and swims to freedom.|Ch1-Swim]]
+<<if $ch1_key>>\
+	[[Bethea fits the key into the lock and turns it silently. The lock clicks open, barely audible. |Ch1-Unlock]]
+<<endif>>\
+<<if $chaos >= 2>>\
+	[[Bethea closes her eyes, concentrating on her power. After slipping the cloak from her shoulders and letting it drop to the ground, wings slowly take shape behind her in a flash of light.|Ch1-FlyOver][$chaos -= 2]]
+<<endif>>\
+
+:: Ch1-FlyAway {"position":"564,2125","size":"100,100"}
+<<set $true_path = false>>\
+<<set $ch1_fly = true>>\
+Bethea relishes in the return of her might, sending it gleefully to her wings. They stretch ecstatically, appearing in a gleaming flash of golden light that is nearly blinding in its brilliance. Wasting no time, the goddess squats down and leaps into the air, wings pounding furiously as she flaps upwards. An excited laugh bubbles free as the wind rushes to welcome her. The voices of the gathered onlookers are lost to the whooshing air, but Bethea is certain that her display has done nothing to assuage the tumult.
+
+Bethea turns for a moment, hovering as her gaze scans the crowd. Blue eyes find the enraged priestess in the crowd, her utter disbelief at the display of divinity tasting as the sweetest nectar. Her distraction proves costly, however. A lasso flies out of the crowd below and tightens around Bethea's ankle. Acting quickly, Bethea bends down and pulls, easily ripping the rope out of the thrower's hands with her strength. She makes to fly out of range, but someone else, or many someones, grabs the rope and yanks her back down. Bethea fights to break free again, but more lariats arc into the sky towards her. The blonde goddess avoids the first, but the second lands haphazardly around her right shoulder, wing, and arm. It tightens, trapping her wing to her side. With only one left, Bethea begins to fall to the ground, flapping and struggling frantically to remain aloft. A third lasso snares her other wing and tightens across her breasts, killing her ability to fly and making her plummet to the ground. She lands on the amphitheatre's dais with a loud crash. Her impact leaves an impressive crater in the surface. Feathers flickering with a weak golden light, Bethea's wings seem to crumble away from reality itself, a tattoo taking their place once more.
+
+Th fallen goddess is immediately swarmed by guards who attempt to use more rope to further secure her. Bethea fights, scratches and claws against them. She puts up an impressive display, fighting off half a dozen women while partially bound. With her strength waning and outnumbered by an ever increasing margin, there is only so much Bethea can do. Eventually the blonde beauty is dogpiled and mummified in rope, every stitch of clothing save her undergarments ripped from her body. There's no artistry or strategy to her bonds, an absurd amount of cruelly wound rope that clings to Bethea's struggling form and pinches every bit of exposed flesh. Her breasts are crushed beneath the onslaught of strands, causing no small amount of discomfort. Even her mouth is covered in rope, pulled back and distorted by tight windings of the stuff that could very generously be called a cleave gag. Bethea is still capable of making some noise, but it is garbled and unintelligible.
+
+Bethea's bound body is hoisted onto the shoulder of a particularly amazonian guard. A hand rests on her upturned derriere, which elicits a growl from the helpless goddess. Her complaint is ignored, the soldiers forming a procession escorting her back to the castle. The priestess crows victoriously. "She is to be taken to the Arbiter then executed. Althea will be furious if it is not finished by midnight." Bethea thinks the Arbiter's presence is pointless if her guilt is already determined, but she is in no position to argue.
+
+[[Bethea's bundled form is roughly carried back to the castle for her appointment with the Arbiter.|Ch1-Judged]]
+
+:: Ch1-Judged {"position":"705,2234","size":"100,100"}
+Tightly tied as she is, Bethea is dragged back to the castle from whence she just escaped. Rather than being dumped unceremoniously back in the dungeon, the goddess is carried through expensive and ostentatious living quarters and official areas. Had she the time and freedom to do so, she would have been enthralled by the wealth of artistry. Unfortunately, Bethea has far more pressing concerns.
+
+Her captors take her to a small chamber on the third story. It is noticeably bare compared to the opulent palace surrounding it. A lone window cut into the stone wall allows the twilight to partially light the chamber. A simple wooden chair sits before four metal posts anchored upright in the marble floor. An abundance of chains litters the area around the poles. Each is brightly polished to glow in the soft light, however scuff marks around the hinges reveals a history of use. Painted on the far wall in blood red is Bethea's own symbol.
+
+<img src="Ch1/Bethea.svg" alt="Bethea's Symbol">
+
+Given that Bethea is to ostensibly see the Arbiter here, the presence of her symbol is far from surprising.
+
+The guards force their prisoner to kneel in the center of the posts. A heavy steel collar is locked around the goddess's neck. The weight alone nearly drags Bethea to the floor. Four chains are anchored to the collar, one pulled tight to each post so that no link shows any slack. This contraption effectively traps the goddess in place, however her captors are just getting started. With two guards holding each arm to ensure their captive does not mount an escape attempt, the ropes are cut away and replaced by heavy steel manacles. Each is adorned with a long chain attached to the two posts behind Bethea. The guards begin to wrap the loose portion of each chain around its respective post, slowly tightening until each arm is held straight back diagonally behind the prisoner with no room to struggle. Bethea's legs receive similar treatment: her body is now being pulled backwards by each limb while her neck is trapped in the center. This is balanced by a final metal cuff, the largest, which is locked about Bethea's waist and anchored to the two poles in front of her. Once tightened, the chains pull Bethea's midriff forward. The entire ensemble leaves the goddess in a painfully contorted position.
+
+Satisfied that she is going nowhere, the remaining ropes and bonds are stripped away until only the chains remain. Bethea works her jaw, grimacing from the lasting discomfort imposed by the cruel gag. Unfortunately, that is really all that she can move in her current state. Most of the remaining soldiers file out of the room, leaving only four to guard Bethea. Minutes pass, all remaining silent as they await the arrival of the Arbiter.
+
+Voices begin to drift in from the hallway, penetrating the thick wooden door. The conversation becomes more intelligible as the accompanying footsteps approach.
+
+"...Queen... demands... !"
+
+"My position... the law..."
+
+"The priestesses will never... madness!"
+
+"I don't answer... concern is the law."
+
+The door flies open with a loud bang. A loud, commanding voice slices through the air. "Out. I will speak with the accused alone, as the law demands." <<if $ch1_help>>Bethea recognizes the speaker's voice, confusion setting in.<<endif>> Dutifully, the guards file out of the room accompanied by loud protests from out in the hallway. The door slams shut, leaving the Arbiter and Bethea alone in the chamber.
+<<if $ch1_help>>\
+
+Alexis steps before Bethea and sits gracefully in the chair. She's no longer wearing the simple garb from before. A long, figure-hugging gown of crimson silk clings to her now, a single gold chain over her right shoulder holding the dress in place. The sides of her hair remain loose and free, however the hair atop her head is braided backwards into a bun that is perched artfully at the back. A gilded band is woven into the braids, the small details of leaves glimmering faintly in the light. Despite the pomp of her attire, Bethea can clearly see the creases and dark circles of worry and exhaustion around her eyes.
+
+Alexis smiles weakly, leaning close so that Bethea can hear her without those no doubt listening at keyholes being able to do the same. "I must say I had hoped they had captured a different blonde, blue-eyed heretic." Bethea suppresses a smile, merely watching to see what Alexis, the Arbiter, will do. <<if $ch1_fly>>"After that display with the wings, though, it is obvious you are no mere heretic. Bethea's wings, the swan's, an apt choice if I do say so myself. Especially for one called Beth."<<else>>"Although something tells me you're not just a mere heretic, are you Beth? Some say you're a witch, others a servant of the godesses."<<endif>> Alexis fixes the chained goddess with a curious look, but the blonde offers nothing and the Arbiter doesn't press the issue.
+
+The redheaded beauty releases a weary sigh, rubbing her temples. "Witch, goddess, monster, or woman, it matters not. I owe you a great debt." Her green eyes briefly flicker to the shuttered door. "Unfortunately, they want your blood and your blood they shall have. If I try to get you released, then they'll have both our blood. Regardless of what one thinks personally..." Alexis's eyes return to Bethea's. "...of your views, it is against the written law of the city. There is little I can do." She curls her fingers into fists in frustration.
+
+Bethea shakes her head slightly. "Don't fret over me. I can handle myself." Alexis cocks her head, not necessarily convinced but also not underestimating the enigmatic prisoner. "They're going to chain you up and throw you off a cliff. That's not something everyone can handle." Bethea  shrugs, at least as much as possible in her current position. <<if $ch1_fly>>"If they choose to execute someone with wings by throwing her from a cliff, then they deserve to fail." The Arbiter grins in response, suppressing a chuckle. "Well said."<<else>>"I'll think of something. I'm resourceful."<<endif>>
+
+Alexis stands, kneeling to give Bethea a firm hug. "Thank you again.  I trust I'll see you after this is over. You'd best make sure of it." The embrace is quick but heartfelt. Standing, Alexis bites her lip, worry briefly flitting across her brow. "If you go..." She pauses, shaking her head. An errant red curl dances. "No. No. I can't ask that of you. You've done too much already." The Arbiter strides quickly over to the door before Bethea can press her with questions. Her voice echoes as she gives orders. "It is without question that the accused has publicly disagreed with the teachings of the Priestesses of Althea in front of many witnesses. They demand her blood, and the law must obey. Take her."
+<<else>>\
+<<if $ch1_betray>>\
+
+An older woman with wiry black hair strides before Bethea and sits purposefully in the chair. A long gown of crimson silk clings to her form, a single gold chain over her right shoulder holding the dress in place. While opulent, the garment is ill-fitting, slightly too long and tight around the midriff. Her hair is swept into a firm yet unspectacular bun atop her skull. A gilded circlet is perched atop her head, the small details of leaves glimmering faintly in the light. "I apologize for the lateness of my arrival. There was an incident."
+
+The woman offers no explanation, and Bethea doesn't seek one. The goddess remains silent, warily eyeing up the Arbiter. <<if $ch1_fly>>The Arbiter's eyes sweep over Bethea's mostly nude form. "After that display with the wings, it is obvious you are no mere heretic. How curious that one about to be called before the Arbiter would choose the swan's wings, the wings of Bethea. Some are saying you're a goddess, Bethea herself even. Others think you're a witch, or some kind of creature." Bethea refuses to give the woman any reaction.<<else>>For her part, the Arbiter merely shrugs. "You're pretty enough, a bit young to have such extreme opinions if you ask me, but then again the young always believe they have the world understood." Bethea barely suppresses the sudden urge to guffaw loudly. Young indeed.<<endif>>
+
+The Arbiter shifts in the chair, crossing her legs. "Witch, goddess, monster, or woman, it matters not. You've blasphemed Althea, publicly and with witnesses no less, and the law says that is punishable by death. While I find the priestesses'..." The woman pauses for a moment, casting her eyes to the ceiling as if the perfect word would descend from there. "...enthusiasm for the application of justice rather gauche, in this specific case their stance matches that of the law."
+
+Bethea merely shrugs, remaining silent and composed. The Arbiter looks her over once more, taking in the steely determination in her eyes. "While I must confirm your execution, I have no personal quarrel with you. May the Goddesses have mercy upon you, sister." Her hand briefly rests atop Bethea's head to give solace before she marches to the door and flings it open. "It is without question that the accused has publicly disagreed with the teachings of the Priestesses of Althea in front of many witnesses. They demand her blood, and the law must obey. Take her."
+<<else>>\
+
+A stunning redhead with vibrant green eyes steps before Bethea and sits gracefully in the chair. A long, figure-hugging gown of crimson silk clings to her lithe form, a single gold chain over her right shoulder holding the dress in place. The sides of her hair remain loose and free, however the hair atop her head is braided backwards into a bun that is perched artfully at the back. A gilded band is woven into the braids, the small details of leaves glimmering faintly in the light. Despite her elegant and official dress, the Arbiter doesn't view Bethea with hostility or malice. Rather, her eyes appear inquisitive.
+
+She smiles and leans in close so that their conversation is not overheard. Whether she is being friendly or disarming, Bethea cannot say. "Alexis." Bethea tilts her head, not following at first. She contemplates her options for a moment before responding.
+
+"Beth."
+
+<<if $ch1_fly>>Alexis raises a brow. "After that display with the wings, it is obvious you are no mere heretic. How curious that one called Beth would choose the swan's wings, the wings of Bethea my patron." Alexis makes a show of inspecting her fingernails. "Some are saying you're a goddess, Bethea herself even. Others think you're a witch, or some kind of creature." Bethea refuses to give the woman any reaction.<<else>>"Beth, a lovely name. You aren't just saying that to appeal to my loyalty to my patron, are you?" Alexis smiles again. Bethea smiles in return this time. If only she knew.<<endif>>
+
+The redheaded beauty's smile dissipates, replaced by a frown. "Witch, goddess, monster, or woman, it matters not. I don't necessarily share the priestesses'..." Her green eyes briefly flicker to the shuttered door. "...fervor when it comes to such matters. Unfortunately, they want your blood and your blood they shall have. If I try to get you released, then they'll have both our blood."
+
+Bethea shakes her head slightly. "You needn't stick your neck out for me. I can handle myself." Alexis cocks her head, not necessarily convinced but also not underestimating the enigmatic prisoner. "They're going to chain you up and throw you off a cliff. That's not something everyone can handle." Bethea  shrugs, at least as much as possible in her current position. <<if $ch1_fly>>"If they choose to execute someone with wings by throwing her from a cliff, then they deserve to fail." The Arbiter grins in response, suppressing a chuckle. "Well said."<<else>>"I'll think of something. I'm resourceful."<<endif>>
+
+Alexis stands, fixing Bethea with a curious glance. She remains silent for a moment, then kneels down in a heap of silk to whisper in Bethea's ear. "There is something I would have you do, if you survive that is." Wary, Bethea remains silent. "There is a prisoner, a..." Alexis stops, shaking her head. As quickly as she knelt, the Arbiter scurries to her feet. "No. No. I can't ask that of you. You have your own problems to deal with." The Arbiter strides quickly over to the door before Bethea can press her with questions. Her voice echoes as she gives orders. "It is without question that the accused has publicly disagreed with the teachings of the Priestesses of Althea in front of many witnesses. They demand her blood, and the law must obey. Take her."
+<<endif>>\
+<<endif>>\
+
+The guards obey solemnly, marching to Bethea's side with chains in hand.
+
+[[With little choice in the matter, Bethea's bonds are changed and she is led to her execution.|Ch1-Execution]]
+
+:: Ch1-Garden {"position":"678,1579","size":"100,100"}
+Bethea swiftly and silently makes her way down to the garden, fully aware of how exposed she is every second she spends on the trellis. Fortunately the flowering vines bear no thorns, so Bethea's descent is relatively painless. As soon as her sandaled feet meet the waiting path, the blonde goddess ducks into a neatly pruned row of hedges and hides.
+<<if $ch1_betray>>\
+
+Bethea's distraction works flawlessly. She can hear the guard's shouting, the boy's mother crying, some loud thudding, and then nothing. She waits in agonized suspense as silence slowly descends. Minutes pass, and yet there's no sign of the guards returning to search for her. Slowly, she emerges from the hedges, head on a swivel. There are no guards in sight.
+<<else>>\
+
+Heart pounding, Bethea peers through the leaves. She appears to be just in the nick of time, as three guards emerge from an archway mere moments after she disappeared into the shrubbery.
+
+"Spread out, search for anything suspicious."
+
+Bethea holds her breath, keeping herself tucked into a tight ball. The guards move slowly through the garden, peering into the greenery and poking with their weapons. Bile rises in Bethea's throat as they approach her position, mind racing to find an escape avenue. Luck takes pity on the goddess. There's a loud bang, and then a cry of alarm from the window above. The guards freeze, looking up towards the commotion. Another guard pops her head over the window sill, gesticulating wildly.
+
+"Cut him off at the western gate! Move!"
+
+The guards spring into action, sprinting a mere hand's breadth from the bush concealing a certain escaped prisoner. They disappear into a small door set in the back wall, yanking it open with a bang and leaving it gaping in their wake. Bethea waits agonizingly as the sound of their hurried footsteps wanes into the palace. Once silence has returned to the small garden, she emerges carefully from the bushes.
+<<endif>>\
+
+The garden is green and lush, clearly well-tended. Immaculately trimmed bushes and hedges line a small, winding gravel path. There are a small handful of fruit trees interspersed amongst a handful of flower beds and burbling fountains. The fountains are ornate and carved of stone, featuring nude women pouring water from urns into the shallow pools below. While the garden paints a beautiful scene, there's very little of value for Bethea's immediate needs, so she forces herself to keep moving.
+
+She makes her way over to an archway set in the wall, stepping back inside the palace. Bethea finds herself in more magnificent, opulent halls. This time she manages to stay on task, ignoring the artwork and making her way quickly through the palace. Almost immediately, the blonde beauty catches a whiff of something succulent. She follows her nose, soon finding herself in the kitchens. There's a large pot of stew bubbling away atop an open flame. Women bustle about the hot space in simple white dresses, kneading dough and baking up a storm. One or two cast a curious glance in Bethea's direction, but most keep their heads down and stick to their work. Grateful that the sight of a guard in the kitchen didn't send the staff into an immediate panic, the goddess picks her way through the kitchen, making sure not to get in the way. There's a wooden door set along the back wall, so Bethea strides in that direction.
+
+The door slips open with ease, so Bethea steps through and shuts it behind her. She's in a small alcove, cloaks, hats, and wraps hanging from hooks along the wall. No doubt the servants store their belongings here while working in the palace. There are two doors, the one leading to the kitchen and a heavier one with a barred window that leads outside. The soft hues of sunset filter through the gaps.
+
+Bethea liberates a simple black cloak from one of the hooks before trying the outer door. It's unlocked, easing open with the loud groan of a poorly oiled hinge. Bethea winces at the horrid sound, hoping it's not the harbinger of a swarm of guards. Poking her head out the door, Bethea finds a small abandoned courtyard. It's enclosed by a large wall, easily three times Bethea's height. A large portcullis stands open just across the courtyard. A bustling city center can be seen not a stone's throw from the wall. The entrance must be meant to provide the servants easy access to the palace. The throng of people appears from this distance to be a marketplace of sorts, the muffled din of hawking vendors and haggling shoppers drifting to Bethea on the wind.
+
+The goddess is surprised that she's seemingly found an unguarded exit given the frantic search. <<if $ch1_betray>>Apparently the guards had relaxed, having found their quarry.<<else>>Whatever is happening at the western gate must be serious.<<endif>> Not wanting to question her good fortune, Bethea slips into the courtyard and makes for the marketplace. She takes a moment to stop by the gate, stripping off the helmet and armor and discarding it behind some bushes. She slips on the cloak and pulls the hood up, striding with purpose out the gate. The goddess manages to make it to the undulating crowd and melt into it without being challenged.
+
+[[Bethea carefully pushes through the crowd, making sure to avoid unwanted attention.|Ch1-LeaveDungeon]]
+
+:: Ch1-EnterMarket {"position":"748,1088","size":"100,100"}
+Bethea emerges into the evening sun. She's alone. Sidling up against the wall to minimize her visibility, the goddess takes the moment to look around. She's just come from a magnificent marble palace. There's a massive wall ahead of her, presumably surrounding the structure, although it is dwarfed by the gargantuan palace it protects. With pristine white marble and ornate sculptures on the outside, one wouldn't expect to find the dreary, mazelike dungeon beneath such an architectural marvel. Bethea can smell the sea on the breeze.
+
+Glad to have escaped, and hoping to remain free longer than a handful of minutes, Bethea makes her way to the wall. There's a small door set in the wall. No doubt an entrance for guards to access the dungeon from the city outside. The door is barred, but fortunately from Bethea's side. She slips the bolt and opens the door. She ducks through and eases it closed, surveying her surroundings. A loud, bustling city sits but a stone's throw from the palace wall. The smell of fish lingers in the air, not surprising considering the wharf just down the hill. A handful of people are working the ships, but it's fairly deserted. Bethea takes advantage, scrambling down the hill and slipping into an alley without being seen. Skirting the edge of the wharf, Bethea keeps her eyes open for guards as she considers the possibility of escaping by boat.
+
+The sleepy seaside opens up into a raucous marketplace, vendors barking their wares and shoppers haggling vigorously. Guards oversee the proceedings, but they don't seem particularly urgent. It's unlikely they're aware of her escape yet. The market is thriving, and a hooded figure in the shadows would draw far more attention than a hooded shopper. Steeling herself, Bethea disappears into the throng.
+ 
+
+[[Pulling the cloak tightly about herself, Bethea slips into the crowd.|Ch1-LeaveDungeon]]
+
+:: Ch1-Damasca {"position":"468,2566","size":"100,100"}
+The blonde beauty picks her way through the forest, shivering slightly in night's cool embrace. Fortunately, the forest floor is soft and welcoming to Bethea's tired feet. A blanket of leaves carpets the dirt. Considering that she could be making her way through discarded needles or thick underbrush, Bethea considers herself lucky. Thank the Goddess.
+
+The goddess walks for nearly an hour, legs beginning to complain. Bethea makes a note to herself to exercise her lower limbs more even if she does regain regular use of her wings. A flickering light on the opposite side of the road catches her eye.<<if $ch1_help>> Bethea crouches down low to the ground and slinks closer, checking to see if it is Damasca.<<else>> Bethea crouches low to the ground and sneaks to the edge of the wood, hoping to catch a peek of whomever it may be.<<endif>>
+
+Sheltered underneath a small overhang, an open fire burns calmly. An elderly woman sits before it on a log, stirring the contents of an unimpressive rusty kettle. She wears simple clothes, a well-worn brown frock covered by a white apron. The woman's wispy white hair is tucked inside a plain white cap. A rickety old wagon rests in the fringes of the light. Bethea peers closely, but can't quite make out the contents. A bedraggled old ass grazes nearby, completely untethered. No doubt even the elderly woman could outrun the aged donkey were it to decide to flee.<<if $ch1_help>> Bethea isn't completely certain if it is Damasca or not. The age fits, but she had expected a rug vendor to be wealthier.<<else>> She clearly has very little, so Bethea doubts she'd be able to offer much in the way of assistance.<<endif>>
+
+"Come on out, child, don't be shy. Yes, I'm talking to you, and yes, I know you're there." The woman's voice emerges on a throaty, cracked mumble. She doesn't even look up from stirring her pot. Bethea nearly leaps out of her skin in surprise, emerging from the cover of shadow and making her way closer once her heart returns to a normal pace. As she approaches, she gets a better glimpse of the ancient's face. It is wrinkled and cracked with age, although gleaming brown eyes suggest the sharp, scheming wit of one not to be underestimated. The goddess approaches slowly, watchful for any tricks the woman may have up her sleeve. The elder shoots Bethea a grin, her old and unkempt teeth glimmering grossly in the firelight.
+<<if $ch1_help>>\
+
+"Damasca?" Bethea asks, looking to the wagon for signs of an ambush. The old woman nods, continuing to stir her pot.
+
+"I've been expecting you. I have a bundle of clothes for you in the back of the wagon, I'm sure you're eager for a change. There's some water in the flasks, so feel free to wash up." Bethea hesitates, wary. The old woman rolls her eyes. "Go on, girl, I don't bite. Hard, anyway." She chortles.
+<<else>>\
+
+"How did you know I was there? Who are you?" Bethea flicks her gaze between the woman and the wagon to ensure she isn't ambushed. Still stirring, the ancient seems to take amusement in the goddess's defensiveness.
+
+Waving a wizened hand, the old woman brushes off the questions. "Damasca. Time for questions later. I have a bundle of clothes for you in the back of the wagon, I'm sure you want out of those old rags. There's a few flasks of water behind the wagon for you to wash up with, too." Bethea opens her mouth to speak, but the ancient waves her off again in annoyance. "Questions later. Change now."
+<<endif>>\
+
+Figuring she has little to lose, Bethea shrugs and makes her way over to the wagon and looks inside. Up close, she gets a better look at the conveyance. It is larger than expected, with four wheels and a bench in front for the driver. The back contains a modest stack of rugs of various materials and patterns. They are somewhat poorly made and kept.<<if $ch1_help>>That would explain Damasca's own less than wealthy appearance.<<endif>> Stuffed down next to the rugs is a small satchel. Bethea peeks inside, finding an elegant white dress and some matching white undergarments. Underneath the bag she finds a pair of nondescript leather sandals. The clothes are smooth to the touch, silky and appealing. They almost certainly cost more than everything else in the wagon.
+
+Taking the pack, Bethea ducks behind the wagon for modesty and strips off her clothes. She retrieves some water from the wagon and gives herself a quick scrubbing, washing some of the dirt and filth from her skin. Feeling better already, Bethea slips into the underwear. It is soft and comfortable. The panties are nearly perfectly sized, hugging her hips gently. Whisper-thin lace flutters against her skin. The top is a soft length of white fabric with a red and gold cord around the perimeter. Bethea wraps it around her torso to cover her breasts, then ties a knot in front with the cord to tighten it to her figure and keep it in place.
+
+The dress is next. Similar in feel to the underwear, the dress is a pure white in color. Bethea slips it over her head, finding that the gold-embroidered hem falls to mid-thigh. A cord matching that on the chest wrap functions as a belt, highlighting Bethea's figure once it is tied in place. The neckline is not necessarily modest, dipping to a point where her bra is visible. The back is even less so, dipping down well below her shoulder blades. That is for the best, though, as it leaves plenty of room for Bethea to stretch her wings. The goddess straps on the sandals and steps back around the wagon.
+
+Damasca sits on the ground before the fire, knees drawn up to her chest as she leans against the wagon. Her flat lips compress as she blows on a steaming bowl of... something in her hands. She looks up at the goddess, holding up the bowl. "Stew?" Bethea looks at the murky brown sludge in the woman's vessel and shakes her head, suppressing a shudder.
+
+"No thanks."
+
+The elderly lady shrugs, raising the bowl to her lips. "Your loss." Bethea leans against the wagon and pins the rug merchant with a sharp look.
+<<if $ch1_help>>\
+
+"The clothes fit well. I'm surprised Alexis was able to pull that off."
+
+"Bah." Damasca sips from her stew, smacking her lips. "Alexis hasn't spoken to me. I knew you were coming." Bethea scowls, but Damasca meets her gaze unflinching. "I know a great many things, Bethea."
+
+The goddess blanches, eyes widening. "How do you..."
+<<else>>\
+
+"Who the hell are you?"
+
+Damasca simply shrugs. "But a simple rug merchant. Far from a goddess such as yourself, Bethea."
+
+Bethea blanches, mouth dropping wide open. She wrangles her surprise, closing her mouth. "What do you know? HOW do you know?"
+<<endif>>\
+
+Damasca smirks, setting the bowl aside and rising to her feet. "Come." Joints protesting, she steps over to her pot. "I'll show you how and what I know, but then you must do something for me." Bethea moves closer. Damasca pulls something out of her apron. The white bones flash against the fire's light. Bethea's skin pales to match her new clothes and her heart pounds in her chest. She remains unmoving, panicked blue eyes locked on the skeletal hand clutched in the old woman's grip. The various bones are held together by crude lengths of twine, knotted to retain the hand's form. The lone appendage sports only three fingers. The index finger and pinky finger are glaring in their absence.
+
+Bethea's voice emerges on a deathly exhale. "Impossible." Damasca looks up sharply, confusion swirling for a moment before she takes in Bethea's fixation with the bone hand. Her lips firm into a thin line. "Come here, we haven't all night."
+
+Bethea pulls back her lips into a snarl, stepping forward menacingly. "Give it to me."
+
+Damasca falters for a moment, stepping back before returning the angry look. "No. It's mine." She hugs the hand to her breast protectively.
+
+The goddess glares at the old woman, weighing her options. While she's frail and a woman of her stature should be easily overpowered, Bethea knows that the skeletal hand in her clutches is more than just bone. She can't let Damasca keep it, but now might not be the best time to press the issue.
+
+[[Annoyed by the old woman's blatant refusal, Bethea tries to take the hand by force.|Ch1-AttackDamasca]]
+[[Recognizing the situation and potential benefit of allying with Damasca, Bethea acquiesces for now.|Ch1-SpareDamasca]]
+
+:: Ch1-AttackDamasca {"position":"385,2764","size":"100,100"}
+<<set $true_path = false>>\
+<<set $ch1_attack = true>>\
+<<set $chaos = 0>>\
+Bethea easily snatches the collection of bones from Damasca's grip, ignoring the elderly woman's squawk of displeasure. Tendrils of white hair having escaped from her cap, the rug merchant starts to charge towards the goddess with surprising agility, but Bethea fixes her in place with a deadly glare. "Stop! Don't. move." Blanching at the violent look smoldering in Bethea's eyes, Damasca obeys.
+
+Bethea turns her attention to the hand, flipping it over and peering at it. There is no gouge on the inside of the palm, and middle finger isn't shattered. A close inspection of the ring finger reveals no grooves or depressions, although Bethea isn't sure if there would be any. Bethea suppresses a sigh, knowing that there were only a few possibilities she could have confirmed so easily. All she can really do is find a way to <<print $bethea_place_name>>. Contacting her sisters somehow would be necessary, if she could get them to listen...
+
+Noise jerks Bethea's attention upwards just in time to see Damasca slap a second three-fingered bone hand across her cheek. Immense surprise dominates her thoughts. One hand is a sign of incredible danger. Two, possibly more, is an unmitigated disaster. Paythea's words whisper through the channels of Bethea's brain, suggestions of danger on the horizon. To the goddess's even greater surprise, though, Bethea finds she cannot move at all! Her arms and legs remain locked in place as if carved from stone, and even her mouth and eyes refuse to obey her commands. Damasca seems even more puzzled by the effects of her attack, staring dumbly at the jangling bone hand dangling from hers.
+
+"Well... now that is interesting." Greedily, Bethea's elderly assailant grabs the collection of bones dangling from the goddess's grip. "I told you this was mine." Damasca circles the frozen beauty, poking and prodding at her statuesque form. The ancient soon finds that Bethea's body remains soft and pliable, easy to manipulate for all present save Bethea herself. With a sadistic grin, the old woman pushes the goddess's arms together behind her back until her elbows and wrists touch. The goddess's fingers are interlocked, and her arms are pushed into her back. Damasca also pushes Bethea's legs together. "I wonder..." Bony fingers press into the hinge of the goddess's jaw, and her mouth drops open. With a cruel smirk, the old woman pries it as far open as she can.
+
+Throughout the process, Bethea realizes that she can still feel, but she cannot move. As such, her mouth and shoulders begin to ache as she is forced to remain in the uncomfortable position. Damasca looks at her curiously, poking and prodding. She mutters something under her breath, retrieving one of the skeletal hands from her apron and touching it lightly against Bethea's stomach. Nothing happens at first. Then, suddenly, Bethea feels the life woosh back into her body. She breathes heavily, the entire experience leaving her sore and exhausted. Only, everything is not normal. Bethea's muscles have regained their agency, but she remains locked into the position. It is as if tight ropes are constricting her body and trapping her in the pose Damsca chose, yet there are none. Even her mouth remains agape, although she is able to mumble unintelligently. "Uhahk hahvuh ufhh uhunuh!?"
+
+Chuckling, Damasca gives Bethea a condescending pat on the cheek. "Perhaps this will teach you a bit of respect." Fury flashes in Bethea's eyes and she lunges at the rug vendor, but the elderly "merchant" simply takes a step backwards. The goddess falls flat on her face with a loud oommph, momentarily knocking the breath from her lungs. Sucking in air, the goddess rolls onto her back and tries to kick out at the old bag. Whatever magic or trickery keeps her bound makes the effort weak and ineffectual. Clucking her tongue, Damasca waddles over to her wagon. With a strength belied by her wizened frame, she hefts a rug out of the wagon and dumps it onto the ground next to the captured Goddess. This sends clouds of dust and dirt into the air. Bethea coughs and sputters as the particles invade her mouth.
+
+"Nufhh nuh gu ufhh fhhikfhh!"
+
+Damasca unravels the rug, then rolls the kicking and squirming blonde onto it. In short order, the rug is rolled up once more, only this time Bethea is trapped in the center. Her head pokes out of one end and her feet out the other, but the constricting fabric limits her breathing and her wiggling. The old woman attempts to lift her back into the cart, but the combined weight of the rug and the goddess proves too much. Shrugging, she steps over to the wagon and rummages around for a moment. After a few muttered curses, the white-haired woman triumphantly produces a coil of rope. She binds it around Bethea's exposed feet then anchors it to the back of the wagon.
+
+Chuckling at the blonde's predicament, Damasca sets to work cleaning up her campsite. She ignores the wiggling goddess and her garbled curses. Finally, Damasca has her things stuffed into the back of the rickety vehicle and the tottering old donkey hooked to the front. She snaps the reigns, leading the carriage slowly onto the road. Bethea grimaces as she's dragged behind, shards of pain radiating up her body with every bump.
+
+"Uufhh! Fufhk..."
+
+[[Inescapably bound, Bethea has little choice but to wait until Damasca arrives at her destination.|Ch1-End]]
+
+:: Ch1-SpareDamasca {"position":"576,2751","size":"100,100"}
+Bethea folds her arms, glaring at the old woman. After a pregnant pause, she exhales and walks over to stand by the pot. "Fine. Keep your trinket." She mutters under her breath. "For now."
+
+Eyeing the goddess warily, Damasca positions herself on the opposite side of the fire. No doubt she doesn't trust Bethea's easy capitulation. Moving slowly, gaze trained suspiciously on the blonde beauty, Damasca dips the bones into the pot so that the fingers are submerged but the palm is not. She begins to stir slowly. Bethea watches closely as the foul-looking stew begins to shimmer. The surface transforms from an impenetrable brown. Bethea gasps, leaning forward as an image begins to shine through the liquid.
+
+Bethea sees... herself! Specifically, her trial at the foot of the Godess's temple, Althea's anger, and her own exile. She watches partially in awe at her own escape from <<print $female_city_name>>, appreciating just how lucky she was at times. The image suddenly shifts, the civilized structures of <<print $female_city_name>> giving way to crude, wooden structures illuminated by flickering flame. Strange creatures clamber along them like ants. They sport dark brown fur which is marred by wrinkles and dangles from their bony frames. Their heads feature glowing red eyes and pig-like snouts with pointed, triangular ears. The creatures, or more aptly monsters, are convened around a blazing fire inside a deep cavern. They dance in frantic and inhuman fashion as the flame hungrily consumes whatever it reaches.
+
+Damasca continues stirring, and the image shifts once more, seemingly remaining in the same cavern but in a different time. The fire is dead, not a single ember smolders. Gruesome corpses lay lifeless around the space, both those of the frightening creatures and humans. Peering closely, Bethea sees the tell-tale uniform of <<print $female_city_name>> adorning the dead women. To her surprise, there are some dead men visible as well, some naked and others barely covered by threadbare loincloths. The stew shakes, changing one last time. The image appears to be but black nothingness at first, but the goddess looks closer. Charred wood and bones covered in ash sit blackened by fire. Nestled amongst the pile sits a skeletal hand, white, untouched by time or flame. Bethea's breath catches. The hand has no index finger and no pinky finger.
+
+Suddenly, the old woman withdraws the hand from the stew. The spell breaks, the pot containing nothing but repulsive stew once more. Bethea looks up, meeting Damasca's avaricious gaze. "What is the meaning of this?"
+
+The witch smiles, showing off her crooked yellow teeth. "Simple. If you want this..." Damasca rattles the broth-covered collection of bones. "...then you're going to have to get me another first."
+
+Bethea's gaze grows closed, icy blue eyes glaring at the old hag. "You can't get it yourself?" Damasca shrugs, emptying her pot on the ground. The grass hisses and dies beneath the foul concoction as it seeps into the soil.
+
+"I had someone working on it, but there have been no results. I grow tired of waiting." The witch says no more as she sets about packing her campsite. Not feeling particularly generous, Bethea doesn't help. After a few moments of tense silence, Damasca has packed her things and re-hitched her donkey. The fire has been doused, living on only as a single torch. With a groan, the ancient climbs aboard the wagon. "Come on girl, we'll talk on the way. I've helped you, and now you're going to help me."
+
+Scowling darkly, Bethea nonetheless obeys and mounts the wagon. While dreading the idea of working for the vile old bag beside her, she can't ignore the pressing need to ensure no one else gets their fleshy hands on those skeletal hands.
+
+[[Bethea rides atop the wagon with the old witch, dread unfurling in her belly as Damasca eases the wagon onto the road.|Ch1-End]]
+
+:: Ch1-Execution {"position":"705,2390","size":"100,100"}
+Bethea soon finds herself sporting a third set of bonds in as many hours. The restrictive, sedentary bonds of the Arbiter's chambers have been replaced by a more mobile set of jangling metal shackles and chains. A single hinged set of cuffs is locked around her upper arms, just above the elbows. Its iron grip holds said elbows together behind Bethea's back. Conversely, Bethea's wrists are each encircled in a steel manacle and pinned to her side just below her ribs via a chain tightly encircling her midriff. Her legs are locked together by steel shackles at the thighs, knees, and ankles. Each set of leg restraints is connected by a short chain no longer than Bethea's index finger. The goddess is able to waddle, even hobble, but is unable to move quickly at all.
+
+The gag, all things considered, could be far worse. It would be unseemly to allow a blasphemer to espouse evil ideologies on her way to her execution, but apparently someone takes perverse pleasure in the more humiliating ways to block a prisoner from speaking. A large metal ring, similar in size to Bethea's fist, had been wedged, pushed, and forced into place behind her teeth and buckled in place via a leather strap. Four metal hooks welded to the ring curve out of her mouth and push into her cheeks. The size alone leads to a dull ache in the blonde goddess's jaw, but the lack of stuffing makes it bearable, save the drool leaking out of her mouth and coating her chest and chin. Perhaps the visual of a heretic with her mouth open and drooling like a simpleton is exactly what the priestesses wish to achieve.
+
+By far the most insidious part of her bonds are the "boots." Not satisfied by the hobbling chains, Bethea's captors have locked her into a painful set of footwear. It starts with a metal cuff locked around each ankle. Said cuff is bolted to a thick metal ring oriented vertically. All of Bethea's weight is forced to rest on the ground through the tips of her toes and on top of the metal rings through her heels. The pointed position would be bad enough, but the insistent pressure of the rounded metal into her soles is maddening. Bethea can barely walk in a straight line without tottering on bendy ankles.
+
+Perhaps because of this, Bethea had been collared and leashed like an animal and forced to walk slowly to her fate. She had fumed, red from anger and embarrassment: quite the crowd had gathered to catch a glimpse of the evil heretic's comeuppance. It had been slow going, but eventually the procession of guards, priestesses, and gawkers had reached the cliff top overlooking the castle and <<print $female_city_name>> as a whole.
+
+Hair whipping in the night wind, Bethea peers over the edge. A fat droplet of drool falls down, down, down towards the jagged rocks poking through the sea's relatively serene surface. The anxious crowd is whispering and murmuring at a dull roar. Bethea can still feel some of her power deep down, the last ruckus of the last few hours having stoked the flames high and hot. Goddesses cannot die, but they can be mangled upon sharp spires. Bethea has no plans of doing either.
+
+The entire contingent of the Priestesses of Althea is on hand to witness Bethea's quite literal downfall. The angry shrew from the amphitheatre seems to be but a bit player, lost amidst a phalanx of naked bodies young and old, pretty and repulsive, fit and unfit. The leader, an ancient, stooped woman with frizzy white hair and hawkish grey eyes stares down Bethea like she is prey. Her voice is cracked and unsteady under the weight of decades of use. "Let all of Creation know... " Her words are interrupted by a nasty fit of coughing that sends convulsions shooting through her frail form. "...that this woman has blasphemed Althea and the Goddesses under penalty of death." The subsequent coughing fit certainly sounds like someone is to die soon.
+
+"Cast her down."
+
+The two closest guards obey, grabbing Bethea's restrained arms and hurling her over the edge. For a brief moment, the goddess feels as if she is floating, time stilling to a crawl. And then she is falling.
+
+[[Bethea's stomach lurches into her throat as she plummets towards the sea.|Ch1-Escape]]
+
+:: Ch1-Escape {"position":"697,2543","size":"100,100"}
+<<set $chaos = 0>>\
+<<set $ch1_escape = true>>\
+Bethea immediately sets to work freeing herself, in no mind to spend her night bleeding and broken. Furious with Althea's cult and Althea herself, Bethea lets out a primal screech and lets every bit of her power woosh through her veins like flame through a field of wheat. No match for her strength, the elbow cuff and rib chain shatter like glass as the goddess pulls her arms free effortlessly. The chains attempting to entrap her legs suffer the same feet, bent and twisted links falling to the ocean below.
+
+Bethea's pristine white wings appear in a roar of light, blinding even far above on the clifftop. It requires but one tug to pop free each disconnected shackle dangling from her limbs. Wings pounding ferociously, the divine beauty wings her way back up to the crowd above. One hand reaches up and grabs the gag strap, ripping it as easily as if it were paper. The gag too falls forlornly into the cold water. Bethea's wings continue to fuel her surge upwards. Her undergarments glow to match her brilliant wings, light coalescing into matter in the shape of Bethea's battle garb. A bronze helmet with burning crest does little to diminish her terrifying visage. A small bronze chestplate covers her upper torso while a strapless thigh-length dress of the purest white covers the rest. A Goddess's skin is the most effective armor at the height of her power, so armor is more of as stylistic choice. The insidious "boots" are replaced by knee-high wooden sandals painted crimson red and glorious gold. Golden bracelets adorn her wrists.
+
+<img style="width: 100%" src="Ch1/BetheaArmor.png" alt="Bethea's Battle Armor">
+
+As she crests the cliff, Bethea comes to a stop and hovers over the ocean, her furious eyes burning into the crowd. Screams rise up as the mass of people turn to flee en masse at the terrifying display. Only a handful of guards and priestesses stand their ground. Some of the priestesses are gesturing and yelling something fierce, but their words are lost to the air. The remaining soldiers scrambling, a few using slings to fire rocks at Bethea while others nock arrows and let fly. The goddess holds her arm out, summoning her aspis in a spectacular flash of light. The arrows and rocks smack into the shield with a few harmless dings, the shield holding strong despite the damage done by Althea.
+
+Bethea's voice is loud and booming like thunder, amplified by her divine anger. "Let the Goddesses make known their opinion of your cult's lies!" She holds her hand up, summoning her spear in all of its glowing glory. With a mighty war cry, the goddess hurls the spear at the cliffside. It sinks deep into the rocks, fissures and cracks chasing the fleeing people of <<print $female_city_name>>. Her point made, Bethea wings south over the island in a furious tempest of feathers and light.
+
+Althea's accursed curse remains ever constant, though, and the show of force is taking its toll on Bethea's strength. She angles herself towards a dense forest set a short distance from <<print $female_city_name>>'s outer wall. Her weapons and armor begin to shimmer, flickering in the dark night sky. One by one Bethea loses the power to keep them, each flickering and vanishing in turn. Bethea drops into the tree tops, dodging the outstretched branches with only modest success. Finally, she falls to the forest floor exhausted, wings reforming into tattoos branding her shoulder blades. She spends a few minutes kneeling in the dead leaves, panting heavy from the effort of her show of force.
+
+A well-worn cobblestone road runs parallel to forest's edge, traveling away from the city towards the interior of the island. <<if $ch1_help>>That must be the road Alexis said Damasca would take.<<endif>> The terrain to the west of the road is hilly and uneven with little cover to protect one from the weather or from observation. Bethea forces herself to her feet and begins to pick her way through the forest, attempting to remain hidden from pursuit. The goddess makes sure to keep the road in sight to aid in navigation.
+
+[[Bethea moves quickly into the shadows before any pursuing guards can catch up, doing her best to avoid making noise.|Ch1-Damasca]]
