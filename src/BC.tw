@@ -29,18 +29,8 @@ Broken Chains
 Centuries have passed since the war between the Court of the Goddesses and the Court of the Gods, one century less since the Court of the Gods was imprisoned deep in the Earth and the lands of <<print $land_name>> returned to the Court of the Goddesses. Bitterness and resentment seep through the land like a poison, tainting the hearts of men. One goddess's ill-fated attempt to cure the strife forces fate onto a voyage towards catastrophe. Stripped of her goddess-hood and shunned by her kind, she alone can sway the winds of change guiding the ship of fate.
 
 -----
-
 [["Chapter 1: Escape from " + $female_city_name|Ch1-Start]]
-<<if $ch1_end>>\
-[[Chapter 2: Of Greed and Goblins|Ch2-Start]]
-<<else>>\
-Chapter 2: Of Greed and Goblins
-<<endif>>\
-<<if $ch2_end>>\
-[[Chapter 3: Targa's Shackle|Ch3-Start]]
-<<else>>\
-Chapter 3: Targa's Shackle
-<<endif>>\
+
 
 :: Data {"position":"17,23","size":"100,100"}
 Global:

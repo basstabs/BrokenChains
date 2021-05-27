@@ -1,30 +1,30 @@
 body
 {
  
-	background-color: #faecd0;
-  	color: #982121;
+	background-color: #444444;
+  	color: #c48d36;
   
 }
 
 .nightbody
 {
   
-	background-color: #000000;
-  	color: #faecd0;
+	background-color: #222222;
+  	color: #a06d16;
   
 }
 
 a
 {
   
-	color: #ff2200;
+	color: #a84242;
   
 }
 
 .nightlink
 {
   
-  	color: #a6a7ff;
+  	color: #982121;
   
 }
 
@@ -38,8 +38,9 @@ hr
 #ui-bar
 {
   
-	background-color: #4a0300;
+	background-color: #080808;
   	color: #eeeeee;
+	border-color: #eeeeee;
   
 }
 
@@ -51,16 +52,4 @@ img
   
   width: 25%;
   
-}
-
-.map
-{
-  
-  display: block;
-  margin: auto;
-  
-  width: 100%;
-  
-  border-radius: 20px;
-   
 }
